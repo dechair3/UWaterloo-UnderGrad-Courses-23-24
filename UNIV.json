@@ -1,0 +1,18 @@
+{
+    "Name": "university",
+    "Notes": "None",
+    "Courses": [
+        {
+            "courseCode": "UNIV101",
+            "Name": "Strategies and Skills for Academic Success",
+            "Desc": "The goal for this course is to help students become successful independent learners. It takes a modeled approach to teaching learning strategies to students who struggle to meet the demands of a university curriculum. In the lectures, students will be taught various learning strategies that they will be able to apply to successfully meet the demands of their other courses. Students will then apply these modeled strategies in their other courses during a weekly application seminar. Students will be expected to demonstrate their understanding of the material through a variety of assignments. ",
+            "Notes": "[Note: A grade of at least 60% is required to pass this course.]",
+            "Consent": "Department Consent Required",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

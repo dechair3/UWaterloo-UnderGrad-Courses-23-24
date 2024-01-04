@@ -1,0 +1,42 @@
+{
+    "Name": "dutch",
+    "Notes": "Courses in Dutch are offered through the Department of Germanic and\r\nSlavic Studies.\nDUTCH and CI courses count towards the Cultural\r\nIdentities (CI) Minor; for further information, please ask\r\nthe Germanic\r\nand Slavic Studies undergraduate advisor.",
+    "Courses": [
+        {
+            "courseCode": "DUTCH101",
+            "Name": "Elementary Dutch 1",
+            "Desc": "The basic elements of Dutch grammar with emphasis on oral practice and pronunciation. Introduction to aspects of Dutch culture. ",
+            "Notes": "[Note: DUTCH 101 is not open to students with native, near-native, or similar advanced ability.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": true
+        },
+        {
+            "courseCode": "DUTCH102",
+            "Name": "Elementary Dutch 2",
+            "Desc": "A continuation of DUTCH 101.  ",
+            "Notes": "[Note: DUTCH 102 is not open to students with native, near-native, or similar advanced ability.]",
+            "Consent": "None",
+            "Prereqs": "Prereq: DUTCH 101",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": true
+        },
+        {
+            "courseCode": "DUTCH271",
+            "Name": "Dutch Culture and Society",
+            "Desc": "An introduction to Dutch society and culture, as it is and has been expressed in art, literature, religion, and philosophy. Political-historical, economic, and urban planning discourses will be discussed. The course explores key concepts informing Dutch cultural identities. Students will gain skills in transcultural analysis and research. ",
+            "Notes": "[Note: Taught in English.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": true
+        }
+    ]
+}

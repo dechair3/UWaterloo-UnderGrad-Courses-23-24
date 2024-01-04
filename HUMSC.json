@@ -1,0 +1,126 @@
+{
+    "Name": "humansciences",
+    "Notes": "The following courses are administered by St. Jerome's University.",
+    "Courses": [
+        {
+            "courseCode": "HUMSC101",
+            "Name": "Great Dialogues: Reflection and Action",
+            "Desc": "What is the relationship between thinking and action? Do they pull us in different directions? Can they be integrated? This course investigates how our own dialogue with core texts, from antiquity (e.g., Homer, Plato, Christian Scriptures) to the present (e.g., Joyce, Arendt), offers ways of understanding the dilemmas and issues raised by these texts and present in our culture.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "HUMSC102",
+            "Name": "Great Dialogues: Politics and Morality",
+            "Desc": "What is the relationship between politics and morality? Are they opposites? Can they be integrated? This course investigates the way our own dialogue with core texts, from the Renaissance to the present (authors may include Machiavelli, Shakespeare, Wollstonecraft, Marx, Conrad, and Arendt), offers ways of thinking through the dilemmas and issues raised by these texts and present in our culture.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "HUMSC201",
+            "Name": "Great Dialogues: Reason and Faith",
+            "Desc": "What is the nature of, and relationship between, reason and faith? Does this fundamental distinction lead to other distinctions such as those between explanation and revelation, and the rational and the intuitive? What impact do such modes of thought have on notions such as providence, perception, and truth?  What comparisons and contrasts can be drawn between each mode and prevailing modern perspectives? This course investigates how a dialogue with core texts (e.g., Boethius, Aquinas, Dante, Bacon, Milton, Descartes, Hume, Austen) offers ways of understanding these issues.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: Level at least 2A",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "HUMSC289",
+            "Name": "Special Topics in Human Sciences",
+            "Desc": "An in-depth analysis of research in selected topics in the Human Sciences. ",
+            "Notes": "[Note: This is a repeatable course, subject to different content; it may be completed a total of four times.]",
+            "Consent": "None",
+            "Prereqs": "Prereq: HUMSC 101",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "HUMSC301",
+            "Name": "Great Dialogues: The Sacred and the Profane",
+            "Desc": "What is the nature of, and relationship between, the sacred and the profane? This course will examine diverse manifestations of the sacred and the profane by emphasizing the nature of their interaction and the impact on our understanding of contemporary human civilization. A dialogical method in exploring these ideas will be encouraged. Areas to be investigated include space, time, ritual, culture, morality, life, and death. The readings will be taken from core texts spanning a wide variety of fields and authors (e.g., Eliade, Wittgenstein, Heidegger, Pieper, Charles Taylor, Mary Douglas).",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: Level at least 3A or one of HUMSC 101, 102, 201",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "HUMSC389",
+            "Name": "Special Topics in Human Sciences",
+            "Desc": "An in-depth analysis of research in selected topics in the Human Sciences. ",
+            "Notes": "[Note: This is a repeatable course, subject to different content; it may be completed a total of four times.]",
+            "Consent": "None",
+            "Prereqs": "Prereq: HUMSC 101; Level at least 2A",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "HUMSC401",
+            "Name": "Great Dialogues: Athens, Jerusalem, and Technological Society",
+            "Desc": "What is the relationship between our Western technological world and its roots in the cultures of ancient Athens (representing the heroic life, the dramatic and tragic life, the political life, the examined life) and Jerusalem (representing liberation from oppression, the focus on justice and mercy, the divine challenge to humans playing God)? Do these cultures offer the potential to challenge the principles on which contemporary technological society rests or have they been surpassed? This course investigates how a dialogue with core texts offers ways of understanding these issues.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: Level at least 3A; One of HUMSC 101, 102, 201, 301",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "HUMSC489",
+            "Name": "Special Topics in Human Sciences",
+            "Desc": "An in-depth analysis of research in selected topics in the Human Sciences. ",
+            "Notes": "[Note: This is a repeatable course, subject to different content; it may be completed a total of four times.]",
+            "Consent": "None",
+            "Prereqs": "Prereq: HUMSC 101; Level at least 3A",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "HUMSC490",
+            "Name": "Great Dialogues: Medical Humanities on Health and Life",
+            "Desc": "What is the relationship of health to life? This course will focus on identifying areas of strain or conflict in public health and everyday life in relation to tensions connected to models of health and sickness. It will examine contested representations of the relations of health and life, healing and cure, pleasure and pain, self-governance and negligence, body and mind, and policy and polity. Core texts will span a wide variety of fields, eras, and authors (e.g., Plato, Descartes, Freud, Parsons, Foucault, Gadamer, Garfinkel).",
+            "Notes": "None",
+            "Consent": "Instructor Consent Required",
+            "Prereqs": "Prereq: Level at least 3A; At least 0.5 unit in HUMSC",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "HUMSC498",
+            "Name": "Directed Studies in Human Sciences",
+            "Desc": "Selected study and assignments under the direction of a faculty member.",
+            "Notes": "None",
+            "Consent": "Department Consent Required",
+            "Prereqs": "Prereq: HUMSC 101; Level at least 4A",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

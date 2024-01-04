@@ -1,0 +1,162 @@
+{
+    "Name": "medievalstudies",
+    "Notes": "None",
+    "Courses": [
+        {
+            "courseCode": "MEDVL105",
+            "Name": "Introduction to Medieval Studies",
+            "Desc": "An introduction to Medieval European civilization focusing on essential aspects of the discipline: history, literature, philosophy, religion, art, architecture and archaeology, law, and science and technology.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MEDVL115",
+            "Name": "Crusading in the Middle Ages",
+            "Desc": "This course examines the historical events and cultural assumptions that led to the European phenomenon of crusading, or holy war, between 1095 and 1453.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MEDVL205",
+            "Name": "Medieval Society",
+            "Desc": "A survey of Medieval civilization featuring such topics as the individual, political institutions, art, architecture, religion, philosophy, literature, social life, and leisure activities.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MEDVL250R",
+            "Name": "The History of Islamic Civilization from Late Antiquity to 1300",
+            "Desc": "This course surveys the diverse history of Islamic societies from the seventh to the thirteenth century. The primary focus is on the central Islamic lands from Egypt to Iran. In addition to the standard narrative, the course also examines salient aspects of Islamic civilization on a thematic basis. ",
+            "Notes": "[Note: SI 121R recommended.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MEDVL251R",
+            "Name": "The History of Islamic Civilization from 1300-1800: The Islamic Gunpowder Empires",
+            "Desc": "This course studies in comparative fashion the rise, consolidation, and decline of the three major Islamic empires of the early modern period (c. 1300-1800): the Ottomans in Anatolia, the Balkans, and the Middle East; the Safavids in Iran; and the Mughals in India. ",
+            "Notes": "[Note: SI 121R recommended.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MEDVL252",
+            "Name": "Medieval Monsters",
+            "Desc": "This course exposes students to a number of disciplinary methodologies (historical, anthropological, geographical, literary, archaeological, philosophical, and philological). Each focuses on exploring the common theme of medieval monsters, such as werewolves, giants, summoned spirits, demons, revenants, centaurs, wild men and wild women, and political monsters.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": true
+        },
+        {
+            "courseCode": "MEDVL260",
+            "Name": "Medieval Europe c.300-c.1500",
+            "Desc": "The political, cultural, economic, and ecclesiastical development of Europe from the fall of the Roman Empire to the end of the high middle ages.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: Level at least 2A",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MEDVL291",
+            "Name": "Special Topics in Medieval Studies",
+            "Desc": "Special topics will be offered from time to time as announced by the Medieval Studies program. Topics will be dependent upon special research and/or instructional interests of faculty. ",
+            "Notes": "[Note: This is a repeatable course, subject to different content; it may be completed a total of three times.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": true
+        },
+        {
+            "courseCode": "MEDVL304",
+            "Name": "Heresy and Religious Crises in Late Medieval Europe",
+            "Desc": "An exploration of the impact of social crises on late medieval religious modes of expression. Topics will include the Great Famine, the Black Death, the Avignon Papacy and Western Schism, the development of heretical movements, and the eventual disintegration of European religious unity. ",
+            "Notes": "[Note: This course fulfils the Area 2 requirement for Religious Studies majors.]",
+            "Consent": "None",
+            "Prereqs": "Prereq: Level at least 2A",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MEDVL305",
+            "Name": "Medieval Death and Dying",
+            "Desc": "What does it mean to die well? This course explores the medieval Ars moriendi tradition in its historical, literary, and cultural contexts and how this tradition can help us recover the human side of dying within contemporary society's medicalized approach to the end of life.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: Level at least 2A",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MEDVL306",
+            "Name": "Public Health in Medieval Society",
+            "Desc": "This course explores the concept of public health in the Middle Ages to understand the diverse meanings and forms that this idea can take in different cultural contexts. Students will engage in critical readings of primary and secondary sources to learn about the care of bodies, management of disease and contagion, waste disposal, and food distribution in various medieval cities. This work will allow students to explore how notions of \"health\" and \"disease\" are cultural constructions that vary depending on the times and spaces in which they are used. Students will acquire humanities-based skills and theories to interrogate notions of health and well-being both historically and in today's societies.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MEDVL391",
+            "Name": "Special Topics in Medieval Studies",
+            "Desc": "Special topics will be offered from time to time as announced by the Medieval Studies program. Topics will be dependent upon special research and/or instructional interests of faculty. ",
+            "Notes": "[Note: This is a repeatable course, subject to different content; it may be completed a total of three times.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MEDVL491",
+            "Name": "Special Topics in Medieval Studies",
+            "Desc": "This course is a special study of a selected topic in Medieval Studies. Please see course instructor for details. ",
+            "Notes": "[Note: This is a repeatable course, subject to different content; it may be completed a total of three times.]",
+            "Consent": "Department Consent Required",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

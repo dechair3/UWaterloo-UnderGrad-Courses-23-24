@@ -1,0 +1,30 @@
+{
+    "Name": "portuguese",
+    "Notes": "Courses in Portuguese are offered through the Department of Spanish and Latin American\r\nStudies.",
+    "Courses": [
+        {
+            "courseCode": "PORT101",
+            "Name": "Introduction to Portuguese 1",
+            "Desc": "Intensive drill in the fundamentals of grammar, comprehension, and speaking. Some reading, translation, and composition. The language laboratory is used as an integral part of the course. ",
+            "Notes": "[Note: Open to students with no prior knowledge of the Portuguese language.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "Antireq: 4U Portuguese",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "PORT102",
+            "Name": "Introduction to Portuguese 2",
+            "Desc": "A continuation of PORT 101.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: PORT 101.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: 4U Portuguese",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

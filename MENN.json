@@ -1,0 +1,42 @@
+{
+    "Name": "mennonitestudies",
+    "Notes": "None",
+    "Courses": [
+        {
+            "courseCode": "MENN125",
+            "Name": "Who are the Mennonites?",
+            "Desc": "This course is an interdisciplinary introduction to the range of Mennonite identities, beliefs, practices, and cultural expressions locally and globally. Themes such as Mennonite history, cultural diversity, theology, religious life, peacemaking, community development, music, literature, and artistic expression will be explored. ",
+            "Notes": "[Note: Formerly ARTS 125.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "Antireq: ARTS 125",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MENN390",
+            "Name": "Special Topics in Mennonite Studies",
+            "Desc": "This course will be offered from time to time as announced. Topics will be dependent on research and/or instructional interests of faculty and visiting scholars. ",
+            "Notes": "[Note: This is a repeatable course, subject to different content; it may be completed a total of three times.]",
+            "Consent": "None",
+            "Prereqs": "Prereq: Level at least 2A",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MENN397",
+            "Name": "Directed Readings in Mennonite Studies",
+            "Desc": "Independent study on a topic of special interest related to Mennonite studies. ",
+            "Notes": "[Note: This is a repeatable course, subject to different content; it may be completed a total of three times.]",
+            "Consent": "Instructor Consent Required",
+            "Prereqs": "Prereq: Level at least 2A",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

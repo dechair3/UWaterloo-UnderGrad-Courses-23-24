@@ -1,0 +1,102 @@
+{
+    "Name": "arabic",
+    "Notes": "Students who are interested in the Arabic language courses\r\nshould be aware that the completion of at least three courses in a\r\nsubject is recommended for a minimum working knowledge of the language.\r\n    \n\nStudents who have previous experience with or who have\r\nstudied the Arabic language at the elementary or secondary school\r\nlevel should not enrol in first-year level courses of the same\r\nlanguage. Such students should consult the Renison Registrar's Office\r\nregarding the appropriate level to enter.\nStudents are not permitted to enrol in more than one Arabic\r\nlanguage course at the same time.\n\nStudents seeking\r\nentry into Arabic courses who have not previously taken a course in\r\nArabic at Renison must complete an assessment form. Renison reserves\r\nthe right to allocate\r\nstudents to the appropriate class based on this assessment.\nRenison\r\nUniversity College reserves the right to refuse admission to, and/or\r\ncredit for, any of its language courses to a student who has, in\r\nRenison's view, a level of competence unsuited to the course(s).",
+    "Courses": [
+        {
+            "courseCode": "ARABIC101R",
+            "Name": "Introduction to Arabic 1",
+            "Desc": "This course is designed for students with no previous knowledge of Arabic. Students will study Modern Standard Arabic (MSA) with a focus on learning the alphabet and cursive writing. They will develop knowledge of basic vocabulary, construct simple sentences, and exchange basic conversations. ",
+            "Notes": "[Note: Not open to students with native, near-native, or similar advanced ability. Completion of student assessment required. Formerly SI 101R.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "Antireq: ARABIC 120/SI 120R, SI 101R",
+            "crosslisted": "None",
+            "online": true
+        },
+        {
+            "courseCode": "ARABIC102R",
+            "Name": "Introduction to Arabic 2",
+            "Desc": "Language structures and verb conjugations will be covered at a beginner level. Students will exchange conversations in varied contexts and build compound sentences and short paragraphs on topics of interest. ",
+            "Notes": "[Note: Not open to students with native, near-native, or similar advanced ability. Completion of student assessment required. Formerly SI 102R.]",
+            "Consent": "None",
+            "Prereqs": "Prereq: ARABIC 101R or SI 101R.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: ARABIC 120R, SI 102R, SI 120R, AB 102W",
+            "crosslisted": "None",
+            "online": true
+        },
+        {
+            "courseCode": "ARABIC120R",
+            "Name": "Literary Arabic for Heritage Speakers",
+            "Desc": "Designed for heritage speakers who have had some meaningful exposure to Arabic (usually a spoken dialect), this language course focuses on improving technical literacy in Modern Standard Arabic (Fusha) by concentrating on grammar and literary skills. Upon finishing, students will be prepared to join non-heritage students in either intermediate or advanced Arabic. ",
+            "Notes": "[Note: Basic knowledge of Arab culture and geography recommended. For students who have been exposed to Arabic at home or lived in an Arabic speaking country but do not possess linguistic competence and literacy of native speakers. Completion of student assessment required. Formerly SI 120R.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "Antireq: ARABIC 101R, ARABIC 102R, ARABIC 201R, SI 101R, SI 102R, SI 120R, SI 201R",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "ARABIC201R",
+            "Name": "Intermediate Arabic 1",
+            "Desc": "This is an intermediate course focusing on reading comprehension of authentic Arabic materials. Students are introduced to verb patterns and subject-verb agreement rules and write longer paragraphs and short essays. ",
+            "Notes": "[Note: Not open to students with native, near native, or similar advanced ability. Formerly SI 201R.]",
+            "Consent": "None",
+            "Prereqs": "Prereq: ARABIC 102R or SI 102R.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: ARABIC 120R, SI 120R, SI 201R",
+            "crosslisted": "None",
+            "online": true
+        },
+        {
+            "courseCode": "ARABIC202R",
+            "Name": "Intermediate Arabic 2",
+            "Desc": "This is an intermediate course where students construct complex sentences and write essays. They read, analyze, and translate authentic texts. Students participate in conversations on topics of interest and learn complex grammar patterns, lexical derivations, and dictionary use. ",
+            "Notes": "[Note: Formerly SI 202R.]",
+            "Consent": "None",
+            "Prereqs": "Prereq: One of ARABIC 120R, ARABIC 201R, SI 120R, SI 201R.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: SI 202R",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "ARABIC301R",
+            "Name": "Advanced Arabic 1",
+            "Desc": "This is an advanced course focusing on honing reading comprehension skills. Students write longer essays using advanced grammatical structures, and they participate in longer conversations. ",
+            "Notes": "[Note: Not open to students with native, near native, or similar advanced ability. Formerly SI 301R.]",
+            "Consent": "None",
+            "Prereqs": "Prereq: ARABIC 202R or SI 202R.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: SI 301R",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "ARABIC302R",
+            "Name": "Advanced Arabic 2",
+            "Desc": "This is an advanced course that provides additional practice of the four integrated language skills. Students examine and analyze texts more deeply and confidently, responding to the texts in oral presentations and class discussions. ",
+            "Notes": "[Note: Not open to students with native, near native, or similar advanced ability. Formerly SI 302R.]",
+            "Consent": "None",
+            "Prereqs": "Prereq: ARABIC 301R or SI 301R.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: SI 302R",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "ARABIC410R",
+            "Name": "English-Arabic Translation",
+            "Desc": "This course explores the main concepts and techniques in modern applied translation theory. Students will acquire essential tools to analyze and understand the semantic, syntactic, and stylistic structure of various texts. Students will learn how to apply their theoretical knowledge in translating Arabic-English/English-Arabic documents from a wide range of fields. ",
+            "Notes": "[Note: Arabic native or near-native proficiency students may enrol; placement test is required.]",
+            "Consent": "None",
+            "Prereqs": "Prereq: ARABIC 302R",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

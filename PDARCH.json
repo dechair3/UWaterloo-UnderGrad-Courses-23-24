@@ -1,0 +1,54 @@
+{
+    "Name": "professionaldevelopmentforarchitecture",
+    "Notes": "None",
+    "Courses": [
+        {
+            "courseCode": "PDARCH1",
+            "Name": "Portfolio Development",
+            "Desc": "This course will elaborate upon the graphic and communication conventions established in the fundamental architecture curriculum. Intermediate investigations in two dimensional representation and photographic manipulation are developed to enhance presentation skills within a professional and academic context. The topics covered in the course culminate in the generation of an architecture portfolio in readiness for job interviews. ",
+            "Notes": "[Note: This course will be graded on a CR/NCR basis. Offered: S]",
+            "Consent": "None",
+            "Prereqs": "Prereq: Level at least 1B Architecture students. ",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: ARCH 114",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "PDARCH2",
+            "Name": "Co-op Fundamentals for Architects",
+            "Desc": "This course will explore aspects of career development related to preparing for and being successful in co-op work terms, such as understanding Co-operative Education and Career Action (CECA) policies and procedures, using Waterloo Works, preparing r\u00e9sum\u00e9s, interviewing effectively, meeting employers' expectations and preparing work-term reports. ",
+            "Notes": "[Note: This course will be graded on a CR/NCR basis. Offered: F]",
+            "Consent": "None",
+            "Prereqs": "Prereq: PDARCH 1; Level at least 2A Architecture students",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "PDARCH3",
+            "Name": "Electronic Communications and Web Design",
+            "Desc": "This course will elaborate upon digital skills introduced in PDARCH 2. Students will learn the fundamentals of web design and will create a living, interactive, digital portfolio. Students will learn how to structure, design and manage web sites and web logs. ",
+            "Notes": "[Note: This course will be graded on a CR/NCR basis. Offered: W]",
+            "Consent": "None",
+            "Prereqs": "Prereq: PDARCH 1",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "PDARCH4",
+            "Name": "Writing, Editing and Research",
+            "Desc": "This course is designed to assist students in building a foundation of skills for academic research, editing texts and designing a research program in preparation for higher studies, essay writing and thesis development. This course offers concise and pragmatic approaches to the challenges of academic and professional writing, including issues in formatting, referencing, creation of bibliographies, footnoting and endnoting. ",
+            "Notes": "[Note: This course is graded on a CR/NCR basis. Offered: F]",
+            "Consent": "None",
+            "Prereqs": "Prereq: PDARCH 3",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "Name": "mathematicalbusiness",
+    "Notes": "None",
+    "Courses": [
+        {
+            "courseCode": "MATBUS371",
+            "Name": "Introduction to Corporate Finance",
+            "Desc": "Cash flow analysis. Cost of capital, investment decision rules, capital budgeting, depreciation. CAPM. Description and valuation of financial instruments including stocks, swaps, options, and bonds.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: ACTSC 221 or ACTSC 231.",
+            "Coreqs": " Coreq: STAT 231 or 241.",
+            "Antireqs": " Antireq: AFM 272/ACTSC 291, AFM 273, 274, AFM 275/AFM 372/ACTSC 391, BUS 283W, ECON 371, ACTSC 371, ACTSC 372",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MATBUS470",
+            "Name": "Derivatives",
+            "Desc": "Overview of the derivatives markets. Pricing of derivatives, including futures, forwards, swaps, and options. Hedging vs. speculating. Option Greeks. Trading strategies. Case studies.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: (One of AFM 275/AFM 372/ACTSC 391, ACTSC 371, BUS 393W), (STAT 334 or (STAT 330 and 333)).",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: AFM 322/474, ACTSC/STAT 446, BUS 423W, ECON 372",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MATBUS471",
+            "Name": "Fixed Income Securities",
+            "Desc": "Analysis of fixed income securities. Duration, convexity. Structured products. Market characteristics. Valuation of bonds with embedded options. Accounting and taxation issues.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: ACTSC 231 and (ACTSC 372 or BUS 393W) or AFM 275/AFM 372/ACTSC 391; Business/Math double degree, Math/Accounting, or Math/Financial Analysis and Risk Management students only.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: AFM 425/475, BUS 449W",
+            "crosslisted": "None",
+            "online": true
+        },
+        {
+            "courseCode": "MATBUS472",
+            "Name": "Risk Management",
+            "Desc": "Principles of Risk Management. Market, credit, and operational risk management. Risk measures. Hedging strategies and risks in hedging. Credit migration. Global financial market regulation. Case studies.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: One of ACTSC 372, AFM 275/AFM 372/ACTSC 391, BUS 393W; Business/Math double degree, Math/CPA, or Math/Financial Analysis and Risk Management students only.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: ACTSC 445, AFM 422, BUS 433W",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

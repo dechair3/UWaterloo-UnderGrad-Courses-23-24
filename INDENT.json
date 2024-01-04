@@ -1,0 +1,78 @@
+{
+    "Name": "indigenousentrepreneurship",
+    "Notes": "None",
+    "Courses": [
+        {
+            "courseCode": "INDENT200",
+            "Name": "The Past, Present, and Future of Indigenous Entrepreneurship",
+            "Desc": "The Indigenous peoples of this land have always been expert entrepreneurs. Indeed, European colonization was driven by the desire to engage in trade with Indigenous peoples who had complex commercial practices and supply chains long before contact. This course will provide an overview of Indigenous entrepreneurship from the pre-contact era through the present, and will investigate its future prospects. Special attention will be paid to the ways in which Indigenous approaches to commercial activity have differed from mainstream approaches.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "INDENT210",
+            "Name": "Fundamentals of Indigenous Entrepreneurship",
+            "Desc": "An introduction to key elements of entrepreneurship such as strategy, marketing, and sales. Reflecting the principle of \"two-eyed seeing,\" the course will focus on these elements both as practiced in the mainstream economy and as practiced in the Indigenous economy.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "INDENT225",
+            "Name": "Practicum in Indigenous Entrepreneurship 1",
+            "Desc": "An experiential course in Indigenous entrepreneurship. In addition to developing the knowledge-base required to succeed in social venture creation, students will also gain experience in the process of proposing and validating new initiatives. Success in the course is measured by how well students improve their understanding of the process of venture creation and the degree to which they use the experience to develop entrepreneurship skills and mindsets.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: INDENT 210.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: SVENT 225P",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "INDENT310",
+            "Name": "Case Studies in Indigenous Venture Creation",
+            "Desc": "A study of approximately a dozen cases of ventures created by Indigenous entrepreneurs. The cases will reflect a variety of sectors and will be drawn from a variety of regions.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "INDENT320",
+            "Name": "Indigenous Economic Development Corporations",
+            "Desc": "Community-based economic development corporations are the engines of entrepreneurship within specific Indigenous communities. This course will focus on the roles of EDCs in promoting economic development and the ways in which they support entrepreneurship.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "INDENT325",
+            "Name": "Practicum in Indigenous Entrepreneurship 2",
+            "Desc": "The instructor works with each student to identify a real world experience in the field of Indigenous entrepreneurship and to plan how they will use that experience to achieve an agreed-upon set of learning outcomes. The instructor provides mentorship and coaching as each student works through the course they have created for themselves.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: INDENT 225.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: SVENT 325P",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

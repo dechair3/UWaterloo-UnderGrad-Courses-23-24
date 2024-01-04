@@ -1,0 +1,90 @@
+{
+    "Name": "appliedlanguagestudies",
+    "Notes": "None",
+    "Courses": [
+        {
+            "courseCode": "APPLS205R",
+            "Name": "Second Language Acquisition",
+            "Desc": "This course introduces major theories of second language acquisition along with reasons for variations in the speed and accuracy of learner progress. It addresses such issues as error analysis, grammatical accuracy, and the effectiveness of bilingual or immersion education.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: Level at least 2A",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "APPLS291",
+            "Name": "Introductory Special Topics in Applied Language Studies",
+            "Desc": "This special topics course will be offered from time to time as announced by the Applied Language Studies program. The topics will focus on areas of faculty research and teaching interest. ",
+            "Notes": "[Note: This is a repeatable course, subject to different content; it may be completed a total of two times.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "APPLS301",
+            "Name": "Language, Culture, and Identity",
+            "Desc": "This course provides an introductory overview of fundamental concepts of language, culture, and identity and relates them to foreign/second language learning and teaching. The course is not language-specific but rather addresses general questions related to learning and using more than one language. ",
+            "Notes": "[Note: Taught in English.]",
+            "Consent": "None",
+            "Prereqs": "Prereq: Level at least 3A",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "APPLS304R",
+            "Name": "Language Teaching Methodology",
+            "Desc": "This course offers a foundation for developing competence as a professional language instructor. In classes exploring theories of language instruction, students discover the strengths and weaknesses of traditional and popular methodologies and integrated approaches applied to such areas as communicative competence and general language skill development.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: APPLS 205R",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "APPLS306R",
+            "Name": "Language Assessment and Testing",
+            "Desc": "Testing is an integral, but often overlooked, component of language teaching and learning. This course explores the principles of language testing and applies them to classroom and high stakes proficiency tests such as the Test of English as a Foreign Language (TOEFL). The systemic implications of testing will be considered.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: One of APPLS 205R, 304R, APPLS/GER 301",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "APPLS391",
+            "Name": "Intermediate Special Topics in Applied Language Studies",
+            "Desc": "This special topics course will be offered from time to time as announced by the Applied Language Studies program. The topics will focus on areas of faculty research and teaching interest. ",
+            "Notes": "[Note: This is a repeatable course, subject to different content; it may be completed a total of two times.]",
+            "Consent": "None",
+            "Prereqs": "Prereq: APPLS 205R",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "APPLS491",
+            "Name": "Advanced Special Topics in Applied Language Studies",
+            "Desc": "This special topics course will be offered from time to time as announced by the Applied Language Studies program. The topics will focus on areas of faculty research and include teaching-related experiential learning opportunities. ",
+            "Notes": "[Note: This is a repeatable course, subject to different content; it may be completed a total of two times.]",
+            "Consent": "Department Consent Required",
+            "Prereqs": "Prereq: APPLS 205R, APPLS 304R",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

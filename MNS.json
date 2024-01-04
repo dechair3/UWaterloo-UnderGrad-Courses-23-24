@@ -1,0 +1,138 @@
+{
+    "Name": "materialsandnano-sciences",
+    "Notes": "None",
+    "Courses": [
+        {
+            "courseCode": "MNS10",
+            "Name": "Materials and Nanosciences Seminar",
+            "Desc": "Lectures, workshops, or seminars focusing on academic and professional development [Offered: F, W]",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: Materials and Nanosciences Plan",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MNS101",
+            "Name": "Materials and Nanosciences in the Modern World",
+            "Desc": "Overview of materials, including physical and chemical classification of materials, and structure-property relationships; survey of emerging fields in materials and nanoscience research such as nanotechnology, quantum materials and devices, bionic research; societal impacts of materialsn and nanoscience research. [Offered: F]",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MNS102",
+            "Name": "Techniques for Materials and Nanosciences",
+            "Desc": "Overview of materials synthesis, including both wet chemical and dry physical based methodologies; basic metrology and materials characterization of surface and bulk properties; introduction to the design, fabrication, and evaluation of simple devices; survey of emerging new techniques in materials and nanosciences.\n[Offered: W]",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MNS201L",
+            "Name": "Materials and Nanosciences Laboratory",
+            "Desc": "The laboratory course is aimed at students enrolled in the MNS program and is composed of experiments involving the syntheses of materials and nano-particles; in addition to their characterization and application using modern instrumentation techniques.  [Offered:  W, S]",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: Materials and Nanosciences students only;",
+            "Coreqs": " Coreq: MNS 211 or 221",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MNS211",
+            "Name": "Chemistry and the Solid State",
+            "Desc": "Crystal structures and bonding in solids; introduction to diffraction, solid state synthesis, and thermal analysis techniques employed in the study of materials; defects, non-stoichiometry, and solid solutions; phase diagrams for solid systems. [Offered: F]",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: CHEM 123 or 125, PHYS 122, MNS 102",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MNS221",
+            "Name": "Physics and the Solid State",
+            "Desc": "Physical properties of crystalline and amorphous solids; introduction to electric, magnetic and optical properties of solids.  [Offered: W, S]",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: MNS 211",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MNS321",
+            "Name": "Electrical and Optical Properties of Materials",
+            "Desc": "Optical properties of and electrical transport in materials; topics may include insulators, semiconductors, metals, superconductors and their applications in photovoltaics, thermoelectrics, and nanocomposites.[Offered: S, F]",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: MNS 221; Level at least 3A",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MNS322",
+            "Name": "Polymer Materials",
+            "Desc": "Basic definitions and polymer nomenclature, molecular weight distributions and averages, molecular weight measurements, step-growth and radical chain polymerization reactions, chain conformations, glass transition, crystallization, mechanical properties of polymers, phase behaviour and morphologies, and self-assembly. [Offered: W]",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: CHEM 254 or PHYS 358/ECE 403.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: CHEM 370, NE 333",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MNS331",
+            "Name": "Biomaterials",
+            "Desc": "Mechanical, chemical and biological properties of biomaterials; relationships between biomaterials and their properties, functions, manufacture, and applications; applications of biomaterials in technologies, such as tissue engineering, prosthesis manufacture, drug delivery systems, bioreactors. [Offered: W]",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: Level at least 3A; Materials and Nanosciences students only",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MNS410",
+            "Name": "Special Topics in Solid-State Materials",
+            "Desc": "After a review of the essential concepts in solid-state materials, in-depth discussion includes two or three of the following topics: transistors, semiconducting materials and devices, superconducting materials and superconductivity-based devices (such as Josephson junctions, SQUIDS), effects of low dimensionality and interfaces, quantum dots, magnetoresistance, spintronics, multiferroics, topological phases, and, nanofabrication of new materials. [Offered: W]",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: Level at least 4A; Materials & Nanosciences students only",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MNS431",
+            "Name": "Special Topics in Nano-Biomaterials",
+            "Desc": "After a review of the essential concepts in nano-biomaterials, in-depth discussion includes two or three of the following topics: biomaterials on atomic and nanometre scales in which DNA, RNA, and/or polypeptides are incorporated as components; physical, chemical, and biological processes; nanoscale forces, adhesion, indentation; applications in nanomotors, nano-biomimetic materials, nanocomposite materials, and nano-biosensors. [Offered: W]",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: Level at least 4A Materials and Nanosciences Plan",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

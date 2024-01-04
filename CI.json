@@ -1,0 +1,114 @@
+{
+    "Name": "culturalidentities",
+    "Notes": "None",
+    "Courses": [
+        {
+            "courseCode": "CI100",
+            "Name": "Cultural Identities Today",
+            "Desc": "In this course students examine a wide range of cultural representations (such as images, ads, short films) and encounter various modes of cultural analysis, thereby developing their ability to reflect on, and understand, the ways in which we form cultural identities in the world today. Students discuss topics such as nation and culture; cultural appropriation; difference and race; stereotypes; Orientalism; gender and identity. Special attention is paid to the Canadian context.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "Antireq: ARTS 190 (LEC 001) taken fall 2017",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "CI155",
+            "Name": "Topics in Cultural Identities",
+            "Desc": "Selected topics on the construction of cultural identities and their representation through language, discourse, literature, film, and other means of expression, explored from diverse disciplinary perspectives. ",
+            "Notes": "[Note: This is a repeatable course, subject to different content; it may be completed a total of three times.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "CI200",
+            "Name": "Transcultural Studies",
+            "Desc": "This course provides an introduction to transcultural views of literature, film, language, and literature and media culture (e.g., fairy tales and their adaptation in other cultures, authors who work in multiple languages, transcultural comics, multilingual and transcultural films, local cultures' interaction with global arts and media scenes, etc.). ",
+            "Notes": "[Note: Lectures and readings in English. No knowledge of German required.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "CI250",
+            "Name": "Truth - Reconciliation - Story",
+            "Desc": "Modern societies have had to confront terrible histories of human rights abuses, where one group has sought to oppress and/or eliminate another because of ethnic, religious, or political differences. Truth and reconciliation commissions or similar mechanisms rely on story to express and make sense of the horrors of large-scale human rights abuses. In this course, we will examine and discuss the role of fictional narratives in contributing to the truth and reconciliation discourses of countries from around the world.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": true
+        },
+        {
+            "courseCode": "CI255",
+            "Name": "Topics in Cultural Identities",
+            "Desc": "Selected topics on the construction of cultural identities and their representation through language, discourse, literature, film, and other means of expression, explored from diverse disciplinary perspectives. ",
+            "Notes": "[Note: This is a repeatable course, subject to different content; it may be completed a total of three times.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "CI267",
+            "Name": "Exploring Cultural Identities Through Experiential Learning",
+            "Desc": "Through field trips and study abroad opportunities this course allows students to critically examine the construction of cultural identities to gain valuable experience and apply concepts from cultural identity courses beyond the classroom. ",
+            "Notes": "[Note: This course might incur additional costs for the student above the registration fee in the form of travel, room and board, and incidental costs. This is a repeatable course, subject to different content; it may be completed a total of three times.]",
+            "Consent": "Department Consent Required",
+            "Prereqs": "Prereq: CI 100",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "CI300",
+            "Name": "Theories of Cultural Identities",
+            "Desc": "Students examine the work of various theorists, both historical and modern, who have contributed to the intellectual framework within which culture and cultural expression can be studied in order to deepen their ability to conduct critical inquiry into the formation of cultural identity. ",
+            "Notes": "[Note: Taught in English.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "CI329",
+            "Name": "Lights, Camera, Action! Film Production in Spain and Latin America",
+            "Desc": "This course explores how Spanish and Latin American films address the intersection of class, gender, and ethnicity, and the construction of regional, national, and cultural identities. ",
+            "Notes": "[Note: Taught in English. This is a repeatable course, subject to different content; it may be taken a total of three times.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "CI400",
+            "Name": "Cultural Identities Seminar",
+            "Desc": "In this seminar students work on an interdisciplinary term-long knowledge mobilization project under the direction of a faculty member. The seminar aims to help students to integrate their knowledge of cultural identities with personal and/or professional interests.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: CI 100 or CI 200/GER 200",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

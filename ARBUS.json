@@ -1,0 +1,114 @@
+{
+    "Name": "artsandbusiness",
+    "Notes": "None",
+    "Courses": [
+        {
+            "courseCode": "ARBUS101",
+            "Name": "Introduction to Business in North America",
+            "Desc": "The functional areas of business: finance, personnel administration, production, marketing, and accounting are examined within differing organizational structures. Coverage also includes study of the principles of effective management and the financial system as a source of corporate capital.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: Arts and Business students.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: AFM 132, BUS 111W",
+            "crosslisted": "None",
+            "online": true
+        },
+        {
+            "courseCode": "ARBUS102",
+            "Name": "Accounting Information for Managers",
+            "Desc": "This course is designed for non-accountants who will use accounting information for planning, control, and decision-making.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: Arts and Business students.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: AFM 101, 102, BUS 127W/227W, 247W, MSCI 262",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "ARBUS200",
+            "Name": "Entrepreneurship Principles and Practices",
+            "Desc": "The role of the entrepreneur, the entrepreneurial firm, and the creative society are examined. Students are exposed to the practices that enable workplace creativity and innovation with exposure to leadership theory and project management. ",
+            "Notes": "[Note: Additional fee may be required.]",
+            "Consent": "None",
+            "Prereqs": "Prereq: ECON 101; Level at least 2A Arts and Business students and Management Studies students.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: MGMT 220/ECON 220, ARBUS 200 taken prior to fall 2013, ENBUS 203",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "ARBUS202",
+            "Name": "Professional and Business Ethics",
+            "Desc": "Study of ethical and moral issues that typically arise in professional and business activity. What responsibilities to society at large do people in such business and professional activities as teaching, engineering, planning, architecture, and accounting have? How far should professional autonomy extend?",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: Arts and Business students",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": true
+        },
+        {
+            "courseCode": "ARBUS300",
+            "Name": "Practical Business Skills",
+            "Desc": "This course will introduce students to important and relevant business skills that will assist them as they prepare for successful careers. The course will supplement contemporary theories with appropriate case studies.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: ARBUS 200; Level at least 3A Arts and Business students and Management Studies students",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "ARBUS301",
+            "Name": "International Business",
+            "Desc": "This course examines the opportunities, risks, and challenges faced by businesses in international markets, as well as the preparation required to operate them.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: ARBUS 101 or AFM 132; Level at least 3A Arts and Business students",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "ARBUS302",
+            "Name": "Principles of Marketing",
+            "Desc": "This course is designed to provide a broad understanding of the field of marketing, including consumer behaviour, segmentation, targeting, positioning, branding, and the marketing mix. Students will gain an understanding of how organizations identify the needs of potential consumers and create and deliver value to these consumers through the marketing process.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: ECON 101; Level at least 2B Arts and Business students.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: BUS 352W, ECON/MGMT 344/ARBUS 302, ENBUS 211/311, GBDA 304",
+            "crosslisted": "None",
+            "online": true
+        },
+        {
+            "courseCode": "ARBUS303",
+            "Name": "Marketing Strategy",
+            "Desc": "Building on the fundamentals introduced in Principles of Marketing, students are given an opportunity to apply these concepts to real world situations in an interactive learning environment. Using cases and simulated markets, students make strategic decisions, defend their decisions, and see the repercussions in real time.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: ECON 344/MGMT 244/ARBUS 302 or ENBUS 211/311; Level at least 3A Arts and Business students.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: BUS 352W, ECON 345/ARBUS 303, ENBUS 211/311, GBDA 304",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "ARBUS400",
+            "Name": "Strategy and Program Integration",
+            "Desc": "A capstone course designed to integrate the arts and business components of the program that incorporate the principles of strategy for the purpose of enabling students to effectively position themselves for opportunities after graduation. ",
+            "Notes": "[Note: Additional fee required.]",
+            "Consent": "None",
+            "Prereqs": "Prereq: ARBUS 300",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

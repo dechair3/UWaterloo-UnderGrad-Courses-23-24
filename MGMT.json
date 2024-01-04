@@ -1,0 +1,54 @@
+{
+    "Name": "management",
+    "Notes": "None",
+    "Courses": [
+        {
+            "courseCode": "MGMT171",
+            "Name": "Fundamentals of Personal and Business Finance",
+            "Desc": "Review of the concept and applications of the time value of money. Overview of common consumer and small business oriented financial products with a focus on the Canadian economy. Introduction to the use of spreadsheets and apps that aid in understanding and comparing financial scenarios.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MGMT220",
+            "Name": "Entrepreneurship and the Creative Workplace",
+            "Desc": "This course has two distinct but related components. The first explores entrepreneurship as a key input to economic activity. It also reviews numerous perspectives of entrepreneurship and introduces basic tools available for use by the entrepreneur, including the business canvas. The second part of this course explores the relationship between entrepreneurship and strategy. The design of an appropriate strategy and the implementation of this strategy through appropriate controls and structure are considered in the context of the innovative firm. ",
+            "Notes": "[Note: Formerly ECON 220.]",
+            "Consent": "None",
+            "Prereqs": "Prereq: Level at least 2A; Not open to Arts and Business students.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: ENBUS 203, ECON 220",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MGMT244",
+            "Name": "Principles of Marketing",
+            "Desc": "This course is designed to provide a broad understanding of the field of marketing, including consumer behaviour, segmentation, targeting, positioning, branding, and the marketing mix. Students will gain an understanding of how organizations identify the needs of potential consumers and create and deliver value to these consumers through the marketing process.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: Level at least 2B.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: BUS 352W, ECON 344/ARBUS 302, ENBUS 211/311, GBDA 304",
+            "crosslisted": "None",
+            "online": true
+        },
+        {
+            "courseCode": "MGMT345",
+            "Name": "Marketing Strategy",
+            "Desc": "Building on the fundamentals introduced in Principles of Marketing, students are given an opportunity to apply these concepts to real world situations in an interactive learning environment. Using cases and simulated markets, students make strategic decisions, defend their decisions, and see the repercussions in real time.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: ECON 344/MGMT 244/ARBUS 302 or ENBUS 211/311.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: ECON 345/ARBUS 303",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "Name": "gerontology",
+    "Notes": "None",
+    "Courses": [
+        {
+            "courseCode": "GERON201",
+            "Name": "Aging and Health",
+            "Desc": "This course focuses on the challenges facing older adults and on strategies to promote successful aging. A basic understanding of the physical aging process is explored, distinguishing between pathological states/illness and normal change. Many physical changes and associated functional decline are affected by modifiable factors such as sedentary lifestyles, substance abuse, and diet. Education, environment, and personal supports also play key roles in preventing illness and accidents (e.g. falls, driving accidents, and medication errors). The course addresses the interests of those working with older adults, and anyone who has older grandparents, parents, or friends.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "GERON218",
+            "Name": "Psychology of Death and Dying",
+            "Desc": "Variations in the meaning and significance of death and dying will be considered from a psychological perspective, with particular attention to the contexts (e.g., cultural, familial, life-span developmental) in which these variations occur.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: PSYCH 101/101R; Level at least 2A",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "GERON245",
+            "Name": "Canadian Health Systems",
+            "Desc": "This course examines Canadian health systems by considering organizational principles, health resources, service utilization, health care planning, and health promotion strategies. There is a focus on societal and political issues which affect the health of the society through the delivery system.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: Level at least 1B; Gerontology or Option in Aging Studies students only",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": true
+        },
+        {
+            "courseCode": "GERON310",
+            "Name": "Development, Aging, and Health",
+            "Desc": "The physiology of human growth, development, and aging is examined, with special reference to the influence of diet, environment, exercise, and disease on the normal processes.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: BIOL 273; Level at least 3A Gerontology Minor or Option in Aging Studies or Diploma in Gerontology students only",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "GERON320",
+            "Name": "Psychosocial Perspectives on Lifespan Development and Health",
+            "Desc": "This course will focus on the normative psychosocial aspects of development of the individual and their influence on the individual's physical and mental health and well-being. Through the use of a developmental systems, lifespan approach, the course will emphasize the life-long process of development. ",
+            "Notes": "[Note: Formerly HLTH 220/GERON 220]",
+            "Consent": "None",
+            "Prereqs": "Prereq: HLTH 101 and 102, or PSYCH 101/101R/121R; Gerontology or Option in Aging Studies students only",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "GERON352",
+            "Name": "Sociology of Aging",
+            "Desc": "An introduction to individual and population aging. Topics discussed include: aging from a historical and comparative perspective; aging in subcultures; aging and the social structure; aging and social processes; aging and the environment; work and retirement; and aging and leisure patterns.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: SOC 101/101R or AHS/HEALTH 107; Gerontology or Option in Aging Studies students only or GSJ 101 or GSJ 102",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "GERON355",
+            "Name": "Biology of Human Aging",
+            "Desc": "An overview of current aspects of the biology of human aging and the functional changes associated with both normal aging and pathological problems often present in the elderly. Biological theories of aging and normal age-related structural and physiological changes on all of the major body systems will be discussed.  Extrinsic factors such as diet and exercise and their role on the aging process will be examined as well as various medical treatments. [Offered:  W]",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: BIOL 130",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "GERON400",
+            "Name": "Interdisciplinary Perspectives on Aging",
+            "Desc": "This course provides an opportunity for critical discussion and analysis of a range of key issues in aging and aging research, and of health system and health policy issues affecting older persons. Speakers will represent a variety of disciplines, reflecting the importance of interdisciplinary perspectives in aging research, as well as the combination of biomedical and psychosocial factors that contribute to healthy aging or to the development of frailty and chronic disease.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: GERON/HLTH 201; Fourth year Gerontology students only",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "GERON401A",
+            "Name": "Independent Study in Aging",
+            "Desc": "For the student who desires to pursue a particular topic in depth through independent research and/or extensive reading. A faculty member must approve a student's project prior to registration for this course.",
+            "Notes": "None",
+            "Consent": "Department Consent Required",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "GERON401B",
+            "Name": "Independent Study in Aging",
+            "Desc": "For the student who desires to pursue a particular topic in depth through independent research and/or extensive reading. A faculty member must approve a student's project prior to registration for this course.",
+            "Notes": "None",
+            "Consent": "Department Consent Required",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Name": "russian",
+    "Notes": "Courses in Russian are offered through the Department of Germanic and Slavic\r\nStudies.\nRUSS and CI courses count towards the Cultural\r\nIdenties (CI) Minor; for further information, please ask the Germanic\r\nand Slavic Studies undergraduate advisor.\nSee CROAT and REES course offerings for interest in Slavic\r\nlanguages, linguistics, culture, history, literature, and film.",
+    "Courses": [
+        {
+            "courseCode": "RUSS101",
+            "Name": "Elementary Russian 1",
+            "Desc": "This course aims to bring Russian language, culture, and everyday life into the classroom. Students with little or no prior knowledge are introduced to the structure of Russian and develop their listening/comprehension, speaking, reading, and writing skills. Classes are communicative and emphasize interaction in Russian. ",
+            "Notes": "[Note: RUSS 101 is not open to students with native, near-native, or similar advanced ability.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": true
+        },
+        {
+            "courseCode": "RUSS102",
+            "Name": "Elementary Russian 2",
+            "Desc": "A continuation of RUSS 101. ",
+            "Notes": "[Note: RUSS 102 is not open to students with native, near-native, or similar advanced ability.]",
+            "Consent": "None",
+            "Prereqs": "Prereq: RUSS 101",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": true
+        }
+    ]
+}

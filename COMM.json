@@ -1,0 +1,114 @@
+{
+    "Name": "commerce",
+    "Notes": "None",
+    "Courses": [
+        {
+            "courseCode": "COMM101",
+            "Name": "Introduction to Financial Markets",
+            "Desc": "The course introduces students to the role of finance in the global economy and aims to develop students' understanding of the basic principles of financial decision-making.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "Antireq: AFM 121, CFM 101, BUS 283W",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "COMM103",
+            "Name": "Principles of Economics",
+            "Desc": "This course provides an introduction to the basic concepts and tools of micro and macro economic analysis of individuals, businesses, and government in the global world. Topics may include consumers, producers, market structures, national income accounting, unemployment, and inflation.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: Mathematics/CPA students only.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: ECON 101, 102",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "COMM231",
+            "Name": "Commercial and Business Law for Mathematics Students",
+            "Desc": "The judicial process, contract law, agency, bankruptcy, negotiable instruments, law of banking, insurance law, partnership law, company law, torts, real estate law.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "Antireq: AFM 231/LS 283, ECE 290; (For Mathematics students only) BUS 231W, CIVE 491, ENVS 201, GENE 411, ME 401, MTHEL 100",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "COMM321",
+            "Name": "Intermediate Accounting for Finance",
+            "Desc": "This intermediate level accounting course will focus on the usage of financial information from a management perspective.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: AFM 101 or BUS 127W/227W; Mathematics/Financial Analysis and Risk Management students only.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: AFM 291, BUS 387W",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "COMM400",
+            "Name": "Entrepreneurship, Technology and the Emerging Information Economy",
+            "Desc": "A study of the spirit of entrepreneurship in the technology industry, opportunities emerging in the new information economy, and the implementation issues associated with starting an entrepreneurial venture in today's rapidly changing environment. Many of the concepts covered will also be applicable to careers in the technology industry or in information-based companies, where \"intrapreneurship\" is an emerging theme. Approximately one-half of the class time will involve guest lectures by entrepreneurs actively involved in the business community. ",
+            "Notes": "[Note: COMM 400 would serve as an excellent sequel to MGMT 220 which focuses on identifying markets for viable entrepreneurial ideas, but MGMT 220 is not a prerequisite.]",
+            "Consent": "None",
+            "Prereqs": "Prereq: Level at least 3A.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: BUS 440W, MTHEL 400",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "COMM421",
+            "Name": "Financial Statement Analysis",
+            "Desc": "This advanced course in financial statement analysis provides a framework for using financial statement data in a variety of business analysis and valuation contexts.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: COMM 321 or BUS 387W; Mathematics/Financial Analysis and Risk Management students only.",
+            "Coreqs": " Coreq: ACTSC 372.",
+            "Antireqs": " Antireq: AFM 492/276, BUS 417W",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "COMM431",
+            "Name": "Project Management",
+            "Desc": "This course will introduce students to approaches, techniques, and terminology used in project management. In particular, students will learn project planning principles, product and process metrics, people and organizational issues, task allocation and scheduling, monitoring and control, change management, and methods for cost estimation and risk assessment. Students will also be introduced to current project management tools, and will manage their own term project.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: AFM 102, MSCI 211; Level at least 3A",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "COMM432",
+            "Name": "Electronic Business",
+            "Desc": "This course will introduce students to approaches, techniques, and terminology used in electronic business. Students will also study issues in disciplines related to electronic business. They will review a number of sites and identify efficient e-commerce analysis, design and development techniques. Students will be introduced to current electronic business tools and standards, and will construct their own simple electronic business site.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: (MGMT 244/ARBUS 302 or BUS 352W); CS 330 or 490; Level at least 3A.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: AFM 443",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "COMM433",
+            "Name": "Income Tax for Finance Students",
+            "Desc": "The course is designed to provide the student with broad overview of the Canadian income tax system as it relates to corporations and individuals. [Offered: F,S]",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: COMM 321; Not open to Mathematics/CPA students.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: AFM 361, BUS 357W",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

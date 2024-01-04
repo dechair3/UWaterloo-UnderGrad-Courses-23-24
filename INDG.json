@@ -1,0 +1,114 @@
+{
+    "Name": "indigenousstudies",
+    "Notes": "None",
+    "Courses": [
+        {
+            "courseCode": "INDG101",
+            "Name": "Mohawk Language 1",
+            "Desc": "An introductory course for students with little or no knowledge of Mohawk. The course is designed to develop basic reading, writing, listening, and speaking skills, however, emphasis will be placed on oral proficiency and comprehension. ",
+            "Notes": "[Note: Conducted in Mohawk. No prior knowledge of Mohawk is expected. Not open to students with advanced ability in Mohawk.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "Antireq: ARTS 190 (LEC 002) taken fall 2017, ARTS 190 (LEC 003) taken winter 2018, ARTS 190 (LEC 001) taken fall 2018",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "INDG102",
+            "Name": "Mohawk Language 2",
+            "Desc": "This course builds on the content learned in MOHAWK 101R/INDG 101. Students will expand their working vocabulary and learn to create more complex sentences. The emphasis will continue to be on improving oral proficiency and comprehension. ",
+            "Notes": "[Note: Conducted in Mohawk.]",
+            "Consent": "None",
+            "Prereqs": "Prereq: MOHAWK 101R/INDG 101 or one of ARTS 190 (LEC 002) taken fall 2017, ARTS 190 (LEC 003) taken winter 2018, ARTS 190 (LEC 001) taken fall 2018.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: ARTS 290 (LEC 001) taken winter 2018 or winter 2019",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "INDG201",
+            "Name": "The Indigenous Experience in Canada",
+            "Desc": "An introduction to the Indigenous experience in Canada with a broad overview of history, culture, and contemporary issues. This course highlights the holism of Indigenous perspectives through assigned readings, discussions, projects, and sharing of personal experiences.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "INDG216",
+            "Name": "Indigenous Visual Culture in Canada",
+            "Desc": "This course will introduce students to issues in contemporary Indigenous visual culture within the Canadian context. Special attention will be paid to the complexities of contemporary art and cultural practices. The course will examine both practice and relevant theoretical paradigms. ",
+            "Notes": "[Note: Art History course]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "INDG226",
+            "Name": "Introduction to Indigenous Spirituality",
+            "Desc": "This course introduces the plurality of Indigenous spiritual traditions in Canada and the diversity, complexity, and strength of these traditions. Included is an understanding of traditional ceremonies, world views, creation stories, cultural values, healers, and medicine. Special attention is given to Anishinaabe and Haudenosaunee nations.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "INDG272",
+            "Name": "Issues in Contemporary Indigenous Communities in Canada",
+            "Desc": "An examination of First Nations and M\u00e9tis cultures and cultural development from the perspective of local Indigenous communities. The course will feature lectures, discussions, and occasional guest speakers representative of the wider Indigenous community.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: INDG 201.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: ANTH 370, NATST 272",
+            "crosslisted": "None",
+            "online": true
+        },
+        {
+            "courseCode": "INDG301",
+            "Name": "Critical Theories of Indigeneity in a Global Perspective",
+            "Desc": "This cross-cultural and interdisciplinary course critically examines the definitions of, and debates surrounding, indigeneity, drawing on both Indigenous and non-Indigenous theorists. The course covers a range of themes, from constitutions and peoplehood to epistemologies and ontologies, and draws on a variety of examples from around the globe.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "INDG305",
+            "Name": "Indigenous Rights in Global Context",
+            "Desc": "A comparative examination of the rights challenges faced by diverse Indigenous peoples around the globe. Special attention will be given to the United Nations Declaration on the Rights of Indigenous Peoples and work being done to protect and advance the rights it enshrines.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: INDG 201",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "INDG318",
+            "Name": "Indigenous Worldviews and Spirituality",
+            "Desc": "This course introduces students to the integral role and place of spiritual practices and ceremonies in the everyday experiences of Indigenous peoples in Canada. Course materials will be supplemented by visits with Elders, Knowledge Keepers, Storytellers, as well as integration of ceremonial and land-based practices.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

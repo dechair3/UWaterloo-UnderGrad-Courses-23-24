@@ -1,0 +1,90 @@
+{
+    "Name": "korean",
+    "Notes": "Students who are interested in the Korean language courses\r\nshould be aware that the completion of at least three courses in a\r\nsubject is recommended for a minimum working knowledge of the language.\r\nThe Korean and East Asian culture courses may provide useful background\r\nfor students intending to spend time in the Far East.\nStudents who have previous experience with or who have\r\nstudied the Korean language at the elementary or secondary school level\r\nshould not enrol in first-year level courses of the same language. Such\r\nstudents should consult the Renison Registrar's Office regarding the\r\nappropriate level to enter.\nStudents are not permitted to enrol in more than one Korean\r\nlanguage course in a term.\nRenison University College reserves the right to refuse\r\nadmission to, and/or credit for, any of its language courses to a\r\nstudent who has, in Renison's view, a level of competence unsuited to\r\nthe course(s).",
+    "Courses": [
+        {
+            "courseCode": "KOREA101R",
+            "Name": "First-Year Korean 1",
+            "Desc": "An introductory course for students who have no or little knowledge of Korean to develop listening, speaking, reading, and writing skills along with a sound basis of grammar. The distinctive features of the Korean language and writing system are introduced. Practical oral, reading, and writing exercises develop the students' grammatical skills. Particular emphasis is placed on the acquisition of a basic working vocabulary. ",
+            "Notes": "[Note: KOREA 101R is not open to students with native, near-native, or similar advanced ability.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "KOREA102R",
+            "Name": "First-Year Korean 2",
+            "Desc": "Students deepen their understanding of basic grammatical (particularly verb, noun, and adverb) forms and sentence construction and enlarge their general vocabulary. Reading ability is expanded, and more attention is given to idiomatic expressions and the use of the language in actual contexts.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: KOREA 101R",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "KOREA201R",
+            "Name": "Second-Year Korean 1",
+            "Desc": "Designed for students who have completed KOREA 102R or the equivalent. To achieve a balanced Korean language proficiency in listening, speaking, reading, and writing, a variety of teaching materials and methods is used. The text includes adapted versions of short stories, essays, and poems.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: KOREA 102R",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "KOREA202R",
+            "Name": "Second-Year Korean 2",
+            "Desc": "A continuation of KOREA 201R.  Emphasis is placed on reading and composition.  Students learn complex sentence structure and widely-used idiomatic phrases for advanced reading.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: KOREA 201R",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "KOREA301R",
+            "Name": "Third-Year Korean 1",
+            "Desc": "This course provides opportunities to strengthen students' reading skills through engagement with articles, short stories, and folk tales. Emphasis is on grammatical analysis and contextual interpretation. Written compositions and oral presentations provide opportunities for personal response and reflection.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: KOREA 202R",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "KOREA302R",
+            "Name": "Third-Year Korean 2",
+            "Desc": "This course provides additional opportunities for engagement with texts at an advanced level. Students develop specialized vocabulary by studying and practicing complex sentences and idioms.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: KOREA 301R",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "KOREA391R",
+            "Name": "Special Topics",
+            "Desc": "This course deals with advanced topics in Korean language and literature. Students are expected to have at least an intermediate level of language proficiency. ",
+            "Notes": "[Note: This is a repeatable course, subject to different content; it may be completed a total of five times.]",
+            "Consent": "None",
+            "Prereqs": "Prereq: KOREA 202R",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

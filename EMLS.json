@@ -1,0 +1,90 @@
+{
+    "Name": "englishformultilingualspeakers",
+    "Notes": "None",
+    "Courses": [
+        {
+            "courseCode": "EMLS101R",
+            "Name": "Oral Communications for Academic Purposes",
+            "Desc": "Designed specifically for students for whom English is not the first language, this course introduces group discussion strategies and presentation skills. Students will improve their informal and formal speaking skills to meet current social, academic, and business practices. A focus on pronunciation and vocabulary assists learners to better engage in conversations and listen to and deliver English presentations. Materials organization, rhetorical devices, nonverbal communication, group management, and intonation patterns are examined. ",
+            "Notes": "[Note: Not open to fluent speakers of English.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "EMLS102R",
+            "Name": "Clear Communication in English Writing",
+            "Desc": "Designed specifically for students for whom English is not the first language, this course offers sentence-level instruction in grammar and idiom to teach students to produce, evaluate, and edit writing under time constraints. It emphasizes readability and error reduction in sentences and paragraphs.  ",
+            "Notes": "[Note: Not open to fluent writers of English.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "EMLS103R",
+            "Name": "Effective English Pronunciation",
+            "Desc": "Designed specifically for students for whom English is not the first language, this course has an intensive focus on the structure of the English sound system with a view to improving pronunciation. Vowel and consonant sounds are practised as well as the phonetic elements above those sounds, such as stress, intonation, and rhythm. The goal is for students to identify their problem areas and to develop strategies to improve their comprehensibility.  ",
+            "Notes": "[Note: Not open to fluent speakers of English.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "EMLS104R",
+            "Name": "Reading and Listening for Academic Purposes",
+            "Desc": "Designed specifically for students for whom English is not the first language, this course offers instruction in reading and listening strategies. Students learn macro and micro reading and listening strategies to improve their reading comprehension and speed and their listening and note-taking skills.  Students also build their academic vocabulary. ",
+            "Notes": "[Note: Not open to fluent speakers or writers of English.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "EMLS105R",
+            "Name": "English in Employment Contexts",
+            "Desc": "Designed for students for whom English is not the first language, this course draws attention to linguistic and workplace cultural features that support essential employment skills such as clarifying instructions, collaborating effectively, providing feedback, and using small talk appropriately. ",
+            "Notes": "[Note: not open to fluent speakers and writers of English.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "EMLS110R",
+            "Name": "Communicating in Canadian Academic Contexts",
+            "Desc": "Designed specifically for students for whom English is not the first language, this course introduces students to North American academic expectations. Students learn to identify attitude and intent in text, to recognize North American patterns of organization, to select and acknowledge appropriate primary and secondary sources, and to present ideas cohesively in speaking and writing. ",
+            "Notes": "[Note: Not open to fluent speakers or writers of English.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "EMLS129R",
+            "Name": "Written Academic English",
+            "Desc": "Designed specifically for students for whom English is not the first language, this writing skills course provides instruction in grammar, sentence and paragraph structure, elements of composition, and academic essay writing, including a focus on theme, development of central ideas, exposition, and argumentation. ",
+            "Notes": "[Note: Not open to fluent writers of English.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": true
+        }
+    ]
+}

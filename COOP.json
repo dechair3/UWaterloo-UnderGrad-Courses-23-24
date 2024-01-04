@@ -1,0 +1,150 @@
+{
+    "Name": "co-operativeworkterm",
+    "Notes": "None",
+    "Courses": [
+        {
+            "courseCode": "COOP1",
+            "Name": "Co-operative Work Term",
+            "Desc": "Supervised and evaluated (as specified by the student's faculty) work term employment in business, industry, government, education or social services.",
+            "Notes": "None",
+            "Consent": "Department Consent Required",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "COOP2",
+            "Name": "Co-operative Work Term",
+            "Desc": "Supervised and evaluated (as specified by the student's faculty) work term employment in business, industry, government, education or social services.",
+            "Notes": "None",
+            "Consent": "Department Consent Required",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "COOP3",
+            "Name": "Co-operative Work Term",
+            "Desc": "Supervised and evaluated (as specified by the student's faculty) work term employment in business, industry, government, education or social services.",
+            "Notes": "None",
+            "Consent": "Department Consent Required",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "COOP4",
+            "Name": "Co-operative Work Term",
+            "Desc": "Supervised and evaluated (as specified by the student's faculty) work term employment in business, industry, government, education or social services.",
+            "Notes": "None",
+            "Consent": "Department Consent Required",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "COOP5",
+            "Name": "Co-operative Work Term",
+            "Desc": "Supervised and evaluated (as specified by the student's faculty) work term employment in business, industry, government, education or social services.",
+            "Notes": "None",
+            "Consent": "Department Consent Required",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "COOP6",
+            "Name": "Co-operative Work Term",
+            "Desc": "Supervised and evaluated (as specified by the student's faculty) work term employment in business, industry, government, education or social services.",
+            "Notes": "None",
+            "Consent": "Department Consent Required",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "COOP7",
+            "Name": "Co-operative Work Term",
+            "Desc": "Supervised and evaluated (as specified by the student's faculty) work term employment in business, industry, government, education or social services.",
+            "Notes": "None",
+            "Consent": "Department Consent Required",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "COOP8",
+            "Name": "Co-operative Work Term",
+            "Desc": "Supervised and evaluated (as specified by the student's faculty) work term employment in business, industry, government, education or social services.",
+            "Notes": "None",
+            "Consent": "Department Consent Required",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "COOP9",
+            "Name": "Co-operative Work Term",
+            "Desc": "Supervised and evaluated (as specified by the student's faculty) work term employment in business, industry, government, education or social services.",
+            "Notes": "None",
+            "Consent": "Department Consent Required",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "COOP10",
+            "Name": "Co-operative Work Term",
+            "Desc": "Supervised and evaluated (as specified by the student's faculty) work term employment in business, industry, government, education or social services.",
+            "Notes": "None",
+            "Consent": "Department Consent Required",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "COOP11",
+            "Name": "Co-operative Work Term",
+            "Desc": "Supervised and evaluated (as specified by the student's faculty) work term employment in business, industry, government, education or social services.",
+            "Notes": "None",
+            "Consent": "Department Consent Required",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "COOP12",
+            "Name": "Co-operative Work Term",
+            "Desc": "Supervised and evaluated (as specified by the student's faculty) work term employment in business, industry, government, education or social services.",
+            "Notes": "None",
+            "Consent": "Department Consent Required",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

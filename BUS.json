@@ -1,0 +1,18 @@
+{
+    "Name": "business\r\n\r\n(wilfridlaurieruniversity)",
+    "Notes": "All BUS courses are offered by the Lazaridis School of\r\nBusiness and Economics (SBE) at Wilfrid Laurier University (Laurier).\r\nSuch courses have course prefix \"BU\" at Laurier, but\r\nappear with prefix \"BUS\" on University of Waterloo (Waterloo) records\r\nwith \"W\" attached to the course number (e.g., BU111 at Laurier vs. BUS\r\n111W at Waterloo).\nWaterloo students taking courses at Laurier pay\r\ntuition fees to Waterloo as part of a special Cross-Registration\r\nAgreement between the two universities.\nOnly students enrolled in Waterloo undergraduate degree\r\nprograms are eligible to cross register for BUS courses. These courses\r\nare not\r\nopen to Waterloo post-degree or non-degree students, including exchange\r\nstudents at Waterloo from another university.\nBUS courses are normally available to Waterloo students only\r\nwhen there is no equally suitable course available at Waterloo and\r\naccess is always conditional upon space availability. Laurier,\r\nof course, gives enrolment priority to its own students.\nIf there are more Waterloo student requests for a BUS course\r\nthan the Laurier SBE can accommodate, priority for enrolment\r\nwill normally be given to students for whom the course is a degree\r\nrequirement in their Waterloo\r\nacademic plan.\nWaterloo students should attempt to self-enrol on Quest for\r\non-campus sections of BUS courses in the same way they do for Waterloo\r\ncourses. Consult the website in note 8 for enrolment in online learning\r\nsections of BUS courses and for procedures to follow when attempts at\r\nQuest self-enrolment in on-campus sections have been unsuccessful.\nCourse descriptions for BUS courses can be found in the Laurier\r\nUndergraduate Calendar. The requisites in that Calendar, of course, are\r\nfor Laurier students. Waterloo students should consult\r\nthe website in note 8 for requisites that apply to Waterloo students.\nThe website\r\nprovides the information below for a large selection of BUS courses\r\n(including BUS 111W and 121W), many of which are part of various\r\nWaterloo undergraduate degree programs.\n\nTerms in which the courses are normally offered (both on\r\ncampus and online learning).\nCourse requisites (i.e., prerequisites, corequisites,\r\nantirequisites) for Waterloo students.\nEnrolment procedures for enrolling in on-campus sections of\r\nBUS courses when attempts at Quest self-enrolment have been\r\nunsuccessful.\nEnrolment procedures for online learning sections of BUS\r\ncourses.\n\n\nEnrolment in any course, whether it is a Waterloo course or a\r\nLaurier course, is not officially confirmed until it appears as part of\r\nyour\r\nclass schedule on Waterloo's Quest system.\nThe Laurier SBE does not normally waive any of\r\nits BUS course prerequisites, nor does it approve requests for class\r\ntime conflicts.",
+    "Courses": [
+        {
+            "courseCode": "BUS-----",
+            "Name": "Business Courses Taught at Wifrid Laurier University",
+            "Desc": "For details regarding Business courses offered at WLU please see notes above.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "Name": "professionaldevelopmentforpharmacystudents",
+    "Notes": "None",
+    "Courses": [
+        {
+            "courseCode": "PDPHRM1",
+            "Name": "Co-op Fundamentals",
+            "Desc": "This course explores aspects of career development related to preparing for and being successful in co-op work terms, such as preparing resumes, and interviewing effectively. ",
+            "Notes": "[Note: Course will be graded on a CR/NCR basis. Offered: F]",
+            "Consent": "None",
+            "Prereqs": "Prereq: PHARM 120; Pharmacy students only",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "PDPHRM2",
+            "Name": "Professional Development for Pharmacy Students 1",
+            "Desc": "Through the PDPHRM series of courses students are exposed to and reflect on a number of pertinent pharmacy topics that they encounter during their academic courses and apply these concepts through each of their co-op work terms. Upon completing the PDPHRM series, all pharmacy students will have exposure and experience in drug distribution and direct patient care. ",
+            "Notes": "[Note: Course will be graded on a CR/NCR basis. Offered: W]",
+            "Consent": "None",
+            "Prereqs": "Prereq: Pharmacy students only",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "PDPHRM3",
+            "Name": "Professional Development for Pharmacy Students 2",
+            "Desc": "Through the PDPHRM series of courses students are exposed to and reflect on a number of pertinent pharmacy topics that they encounter during their academic courses and apply these concepts through each of their co-op work terms. Upon completing the PDPHRM series, all pharmacy students will have exposure and experience in drug distribution and direct patient care. ",
+            "Notes": "[Note: Course will be graded on a CR/NCR basis. Offered: F]",
+            "Consent": "None",
+            "Prereqs": "Prereq: PDPHRM 2; Pharmacy students only",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "PDPHRM4",
+            "Name": "Professional Development for Pharmacy Students 3",
+            "Desc": "Through the PDPHRM series of courses students are exposed to and reflect on a number of pertinent pharmacy topics that they encounter during their academic courses and apply these concepts through each of their co-op work terms. Upon completing the PDPHRM series, all pharmacy students will have exposure and experience in drug distribution and direct patient care. ",
+            "Notes": "[Note: Course will be graded on a CR/NCR basis. Offered: S]",
+            "Consent": "None",
+            "Prereqs": "Prereq: PDPHRM 3; Pharmacy students only",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

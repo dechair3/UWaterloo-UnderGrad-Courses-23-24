@@ -1,0 +1,90 @@
+{
+    "Name": "visualculture",
+    "Notes": "For studio, art history, film, and media courses please see FINE\r\n(Fine Arts) or contact the undergraduate co-ordinator prior to each\r\nterm.\nFor a full list of approved courses in Visual Culture,\r\nplease consult the FINE (Fine\r\nArts) course descriptions or consult the Undergraduate Studies\r\nco-ordinator.",
+    "Courses": [
+        {
+            "courseCode": "VCULT100",
+            "Name": "World Cinema and Visual Culture",
+            "Desc": "Introduction to film analysis via national cinemas and their worldwide reception, taking into account the role of new technologies. This course acknowledges not only the importance of multiple languages and cultures on the planet today but also the rapidly growing international contexts, complicated chains of production and distribution, and vastly different cultures of spectatorship. ",
+            "Notes": "[Note: All films will be shown with subtitles; no second language expertise is required.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "VCULT101",
+            "Name": "Art History and Visual Culture",
+            "Desc": "This course takes a case study approach to examining the role of the art object as a means of communication within the history of visual culture. Particular attention will also be paid to the unique properties of a range of diverse media, both traditional and new.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "VCULT112",
+            "Name": "Introduction to Black Arts, Culture, and Literature",
+            "Desc": "This course examines the evolution and development of Black Peoples' artistic, cultural, and literary experiences from a global perspective including art and design, theatre and performance, literature, music, spoken word, and other modes of interdisciplinary and transdisciplinary practice. Coursework is designed to immerse students in analyzing Black art, culture, and literature through intersectional, feminist, and queer lenses. The course is designed for both thinkers and creators. Students will engage in the course material through readings, viewings, and field trips around film, comics, anime, popular culture events, plus the visual and performing arts.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "VCULT200",
+            "Name": "Visual Studies Across the Discipline",
+            "Desc": "Weekly lectures by visiting faculty introduce students to how visual studies are conducted across and between the disciplines. Recognizing the vastness of the global study of visual culture, this course reinforces how, despite the diversity of media analyzed, various disciplines share related approaches and theories.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: Level at least 2A",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "VCULT300",
+            "Name": "Visual Culture in Theory",
+            "Desc": "An advanced introduction to theorizing in art and media, highlighting the distinctive role of visual representation in cultural experience and the varied modes of thinking about images that visual representation has engendered. Readings will be drawn from several disciplines including art history, film and literary studies, media studies, and philosophy.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: VCULT 200; Level at least 3A",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "VCULT400",
+            "Name": "Visual Culture Seminar",
+            "Desc": "This fourth-year honours seminar leads students through a variety of topics in the theory and history of visual culture. Through class discussions, readings, and presentations, students will engage in an interdisciplinary dialogue around what constitutes visual culture today and how to analyze it.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: VCULT 300; Level at least 3B Visual Culture Honours students.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: FINE 490, 496",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "VCULT401",
+            "Name": "Advanced Visual Culture Seminar",
+            "Desc": "This fourth-year level advanced visual culture seminar is designed to focus student research skills toward the development of a thesis project.",
+            "Notes": "None",
+            "Consent": "Department Consent Required",
+            "Prereqs": "Prereq: VCULT 400.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: FINE 491, 497",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

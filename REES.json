@@ -1,0 +1,126 @@
+{
+    "Name": "russianandeasteuropeanstudies",
+    "Notes": "Courses in Russian and East European Studies are offered\r\nthrough the Department of Germanic and Slavic\r\nStudies.\nREES and CI courses count towards the Cultural\r\nIdenties (CI) Minor; for further information, please ask the Germanic\r\nand\r\nSlavic Studies undergraduate advisor.\nPlease also see CROAT and RUSS course offerings for interest\r\nin Slavic languages.",
+    "Courses": [
+        {
+            "courseCode": "REES120",
+            "Name": "Once Upon a Fairy Tale: Fairy Tales, Then and Now",
+            "Desc": "This course studies fairy tales in the broader context of the history of childhood and practices of education and socialization. The course will focus on fairy tales of German and Russian origins and consider their interpretations and reinterpretations in different historical periods. This may include figures from the Brothers Grimm and Alexander Afanasyev, such as Snow White, Sleeping Beauty, Red Riding Hood, and the Firebird. ",
+            "Notes": "[Note: Taught in English.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "REES180",
+            "Name": "German and Russian Literary Masterpieces",
+            "Desc": "An examination of major Russian and German literary works that have influenced world literature. ",
+            "Notes": "[Note: Taught in English.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "REES230",
+            "Name": "The Devil",
+            "Desc": "An examination of the Devil and demonic figures in the Russian and Slavic cultural traditions based on examples drawn from literature, music, the visual arts, and film.  Connections to a larger Western cultural context are also explored.  ",
+            "Notes": "[Note:  Taught in English.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "REES240",
+            "Name": "Mediterranean Cultures in their European Context",
+            "Desc": "An introduction to modern eastern Mediterranean societies, focusing primarily on Croatia and its neighbours, and examining the historical, cultural, economic, and socio-political interconnectedness of these societies, situated at a crossroads of both East/West and North/South communication and commerce. Students will discuss different perspectives on issues such as cultural diversity, gender relations, migration, and the place of the Mediterranean in the human imagination, developing critical thinking skills by analyzing relevant readings and engaging in independent research.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "Antireq: REES 260 taken spring 2021, winter 2022",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "REES260",
+            "Name": "Special Topics",
+            "Desc": "Selected topics in Russian and East European Studies chosen by the instructor in consultation with the department. The topics chosen introduce students to important issues in eastern European culture. ",
+            "Notes": "[Note: This is a repeatable course, subject to different content; it may be completed a total of three times.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "REES261",
+            "Name": "Understanding Conversation",
+            "Desc": "This course examines the connection between conversation and cultural identities. Looking at conversation means looking at language structures and language choice but also at gesture, gaze, laughter, and emojis. We will analyze everyday conversation as well as interaction in digital contexts, with the goal of discovering how linguistic and multimodal choices convey and construct who we are. ",
+            "Notes": "[Note: Taught in English.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "REES262",
+            "Name": "Multilingualism",
+            "Desc": "This course examines the concept of multilingualism in society from a social, cultural, and linguistic perspective. It covers topics such as multilingualism in the media, endangered languages, language and identities, language maintenance and loss, language planning and politics, and multilingual education. ",
+            "Notes": "[Note: Taught in English.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "REES272",
+            "Name": "Russian Thought and Culture",
+            "Desc": "An introduction to Russian culture from the 19th century to the present day through the close study of selected works of literature, art, film, and music. ",
+            "Notes": "[Note: Taught in English.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": true
+        },
+        {
+            "courseCode": "REES364",
+            "Name": "German and Russian Film Pioneers",
+            "Desc": "An examination of early German and Russian cinema, and the way these two film industries influenced each other. Influential theories of film from the period will also be studied. ",
+            "Notes": "[Note: Taught in English.]",
+            "Consent": "None",
+            "Prereqs": "Prereq: Level at least 2A",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "REES385",
+            "Name": "Culture Behind the Iron Curtain",
+            "Desc": "An examination of the culture of the Soviet Union, the German Democratic Republic, and other states that experimented with socialism in the 20th century. Representations of Marxist-Leninist and Stalinist ideologies in literature, cinema, and the arts; the role of the state in directing cultural expression; and resistance to totalitarian control of culture are examined. Western representations of the Cold War are also studied. ",
+            "Notes": "[Note: Taught in English.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

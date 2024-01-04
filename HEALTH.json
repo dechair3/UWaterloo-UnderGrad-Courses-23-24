@@ -1,0 +1,78 @@
+{
+    "Name": "health",
+    "Notes": "None",
+    "Courses": [
+        {
+            "courseCode": "HEALTH100",
+            "Name": "Foundations of a Healthy Lifestyle",
+            "Desc": "This course will introduce the student to the basics of health, wellness, and disease, with an emphasis on assessing and evaluating the student's own lifestyle and health risk, and committing to a plan to begin or maintain a healthy lifestyle across the life course. ",
+            "Notes": "[Note: Formerly AHS 100]",
+            "Consent": "None",
+            "Prereqs": "Prereq: Not open to students in the School of Public Health Sciences, and Department of Kinesiology and Health Sciences",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "HEALTH105",
+            "Name": "Mental Health Literacy",
+            "Desc": "This course will introduce students to mental health and wellness across the life span, with an emphasis on the postsecondary age group. HEALTH 105 considers mental health within the broader spectrum of health in our changing world. Through this course, students will increase their ability to recognize, manage, and strengthen mental health. Students will develop greater awareness of their own mental health and wellness through the application of the knowledge and skills learned in this course. In addition to considering mental health at the individual level, this course will focus on how to foster a culture of support and caring in community. This course is not intended to be a substitute for counselling. ",
+            "Notes": "[Note: Formerly AHS 105]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": true
+        },
+        {
+            "courseCode": "HEALTH107",
+            "Name": "Sociology of Activity, Health, and Well-being",
+            "Desc": "This course will focus on the social and cultural factors that influence leisure, activity, health, and well-being in different settings and among different populations. Sociological literature will be used to examine activity, health, and well-being in the lives of individuals, groups, and society. ",
+            "Notes": "[Note: Formerly AHS 107]",
+            "Consent": "None",
+            "Prereqs": "Prereq: Faculty of Health Year 1 students",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "HEALTH150",
+            "Name": "Foundations of Human Anatomy and Physiology",
+            "Desc": "This course covers the anatomy and physiology of the human body systems, with an emphasis on the relationship between a body organ's structure and its function. Topics include organization of the human body, basic chemistry, the cell, tissues, bones and muscles, the nervous system, the blood, cardiovascular system, and the urinary system. It is designed for students who have little formal knowledge of the human body but who wish to learn about the human body, or train for a career in therapeutic recreation or other social and community services. ",
+            "Notes": "[Note: Formerly AHS 150]",
+            "Consent": "None",
+            "Prereqs": "Prereq: Not open to Health Sciences, Kinesiology or Science students",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": true
+        },
+        {
+            "courseCode": "HEALTH395",
+            "Name": "Study Abroad",
+            "Desc": "Study abroad under exchange agreements supported by the University. Discussion and approval of options with your advisor is required. Credit for specific courses will be evaluated following receipt of an official transcript and supporting course outline documentation. The approved study agreement will be recorded on the student record. ",
+            "Notes": "[Note: Formerly AHS 395]",
+            "Consent": "Department Consent Required",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "HEALTH490",
+            "Name": "Interdisciplinary Health Topics",
+            "Desc": "This course will cover interdisciplinary health topics of emerging research and teaching interest.\n",
+            "Notes": "[Note: This is a repeatable course, subject to different content; it may be completed a total of three times.]",
+            "Consent": "None",
+            "Prereqs": "Prereq: Level at least 4A Health students",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

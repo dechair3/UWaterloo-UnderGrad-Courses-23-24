@@ -1,0 +1,42 @@
+{
+    "Name": "croatian",
+    "Notes": "Courses in Croatian are offered through the Department of Germanic and\r\nSlavic Studies. \nCROAT and CI courses count towards the Cultural Identities (CI) Minor; for further information, please ask the Germanic and Slavic Studies undergraduate advisor.\nSee REES and RUSS course offerings for interest in Slavic\r\nlanguages, linguistics, cultures, history, literature, and film.",
+    "Courses": [
+        {
+            "courseCode": "CROAT101",
+            "Name": "Elementary Croatian 1",
+            "Desc": "For students with little or no knowledge of Croatian. The basic elements of Croatian grammar with emphasis on oral practice and pronunciation.\n",
+            "Notes": "[Note: CROAT 101 is not open to students with native, near-native, or similar advanced ability.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": true
+        },
+        {
+            "courseCode": "CROAT102",
+            "Name": "Elementary Croatian 2",
+            "Desc": "A continuation of CROAT 101. ",
+            "Notes": "[Note: CROAT 102 is not open to students with native, near-native, or similar advanced ability.]",
+            "Consent": "None",
+            "Prereqs": "Prereq: CROAT 101",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": true
+        },
+        {
+            "courseCode": "CROAT299",
+            "Name": "Croatian Abroad",
+            "Desc": "This immersion course provides students with an introduction to selected topics in Croatian-speaking environments. The topics range from history and culture, to language and linguistic varieties, as well as arts, architecture, and media landscapes. Course offerings include classes abroad as well as field trips. ",
+            "Notes": "[Note: This course might incur additional costs for the student above the registration fee in the form of travel, room and board, and incidental costs. This is a repeatable course, subject to different content; it may be completed a total of two times.]",
+            "Consent": "Department Consent Required",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

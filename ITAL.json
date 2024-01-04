@@ -1,0 +1,90 @@
+{
+    "Name": "italian",
+    "Notes": "The following courses are administered by St. Jerome's University.\nThe language of instruction will be Italian.\nNative speakers and students with a knowledge of Italian not acquired in an academic institution should contact the undergraduate advisor to determine their level of language ability.",
+    "Courses": [
+        {
+            "courseCode": "ITAL101",
+            "Name": "Introduction to Italian Language 1",
+            "Desc": "An intensive study of the fundamentals of Italian grammar and conversation.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "Antireq: ITAL 155",
+            "crosslisted": "None",
+            "online": true
+        },
+        {
+            "courseCode": "ITAL102",
+            "Name": "Introduction to Italian Language 2",
+            "Desc": "A continuation of ITAL 101, with more emphasis on conversation and everyday uses of language.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: ITAL 101.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: ITAL 155",
+            "crosslisted": "None",
+            "online": true
+        },
+        {
+            "courseCode": "ITAL155",
+            "Name": "Intensive Introductory Italian Language",
+            "Desc": "This course aims to present the basic principles of the Italian language, geography, and culture in a practical and efficient way. Throughout the course, the goal of practical, communicative competence will be emphasized and cultivated via in-class activities and assignments focusing on five areas of performance: listening, speaking, reading, writing, and culture.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "Antireq: ITAL 101, 102",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "ITAL201",
+            "Name": "Intermediate Italian 1",
+            "Desc": "Advanced study of grammar. Conversation sessions based on intermediate-level readings reflecting contemporary Italian life. Intensive practice in the spoken and written language.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: ITAL 102 or 155",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "ITAL202",
+            "Name": "Intermediate Italian 2",
+            "Desc": "A continuation of ITAL 201.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: ITAL 201",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "ITAL251",
+            "Name": "Issues in Contemporary Italian Society",
+            "Desc": "Through lectures, discussions, and readings in Italian, this course studies diverse aspects of contemporary Italian society, such as politics, the arts, food, fashion, and popular culture. In addition to improving their language comprehension and cultural awareness, students will expand their vocabulary and improve their oral and written competencies in Italian.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: ITAL 202",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "ITAL396",
+            "Name": "Special Topics/Directed Readings",
+            "Desc": "This course gives the student an opportunity to study authors and works of special interest which are not covered in other courses. ",
+            "Notes": "[Note: This is a repeatable course, subject to different content; it may be completed a total of two times.]",
+            "Consent": "Instructor Consent Required",
+            "Prereqs": "Prereq: ITAL 202",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

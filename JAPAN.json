@@ -1,0 +1,114 @@
+{
+    "Name": "japanese",
+    "Notes": "Students who are interested in the Japanese language courses\r\nshould be aware that the completion of at least three courses in a\r\nsubject is recommended for a minimum working knowledge of the language.\r\nThe Japanese and East Asian culture courses may provide useful\r\nbackground for students intending to spend time in the Far East.\nStudents who have previous experience with or who have\r\nstudied the Japanese language at the elementary or secondary school\r\nlevel should not enrol in first-year level courses of the same\r\nlanguage. Such students should consult the Renison Registrar's Office\r\nregarding the appropriate level to enter.\nStudents are not permitted to enrol in more than one Japanese\r\nlanguage course in a term.\nRenison University College reserves the right to refuse\r\nadmission to, and/or credit for, any of its language courses to a\r\nstudent who has, in Renison's view, a level of competence unsuited to\r\nthe course(s).",
+    "Courses": [
+        {
+            "courseCode": "JAPAN101R",
+            "Name": "First-Year Japanese 1",
+            "Desc": "An introductory course for students who have little or no knowledge of Japanese to develop basic listening, speaking, reading, and writing skills. Practical oral and written exercises incorporating the Hiragana Writing System provide a firm grammatical foundation for further study. ",
+            "Notes": "[Note: JAPAN 101R is not open to students with native, near-native, or similar advanced ability.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "Antireq: JAPAN 111R",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "JAPAN102R",
+            "Name": "First-Year Japanese 2",
+            "Desc": "Listening, speaking, reading, and writing skills acquired in JAPAN 101R are further developed. Practical oral and written exercises incorporating the Katakana Writing System are used to develop a more solid grammatical base.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: JAPAN 101R or 111R.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: JAPAN 112R",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "JAPAN111R",
+            "Name": "Japanese for Business 1",
+            "Desc": "An introductory course to develop basic comprehension, speaking, reading, and writing skills specifically related to the Japanese business culture. This course is designed for students with little or no previous knowledge of Japanese. ",
+            "Notes": "[Note: JAPAN 111R is not open to students with native, near-native, or similar advanced ability.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "Antireq: JAPAN 101R",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "JAPAN112R",
+            "Name": "Japanese for Business 2",
+            "Desc": "A continuation of JAPAN 111R designed to further develop listening, speaking, reading, and writing skills. Language skills required for the business environment are stressed.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: JAPAN 101R or 111R.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: JAPAN 102R",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "JAPAN201R",
+            "Name": "Second-Year Japanese 1",
+            "Desc": "A continuation of the study of grammar and vocabulary through development of listening, reading, writing, and speaking skills. Some study of Japanese culture is also included. By the end of the course, 120 Kanji (Chinese characters in their Japanese readings) will have been introduced.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: JAPAN 102R or 112R",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "JAPAN202R",
+            "Name": "Second-Year Japanese 2",
+            "Desc": "In this course students continue to develop their language skills with an increased emphasis on spoken Japanese. In addition, students work on improving grammatical accuracy and vocabulary development as well as continue to acquire basic information about Japanese culture. The writing of an additional 200 Kanji is taught.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: JAPAN 201R",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "JAPAN301R",
+            "Name": "Third-Year Japanese 1",
+            "Desc": "This course concentrates on advanced conversation, polite forms, and idioms. It provides an opportunity to revise and practise the Hiragana and Katakana writing forms. Upon completion, students should be able to write 800 characters and use a Japanese dictionary with ease.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: JAPAN 202R",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "JAPAN302R",
+            "Name": "Third-Year Japanese 2",
+            "Desc": "This course builds on the materials learned in JAPAN 301R by employing current newspaper articles for reading practice, thematic discussions, and writing exercises in order to enhance students' skill in the use of the Japanese language.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: JAPAN 301R",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "JAPAN391R",
+            "Name": "Special Topics",
+            "Desc": "This course deals with advanced topics in Japanese language and literature. Students are expected to have at least an intermediate level of language proficiency. ",
+            "Notes": "[Note: This is a repeatable course, subject to different content; it may be completed a total of five times.]",
+            "Consent": "None",
+            "Prereqs": "Prereq: JAPAN 202R",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

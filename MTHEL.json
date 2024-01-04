@@ -1,0 +1,102 @@
+{
+    "Name": "mathematicselectives",
+    "Notes": "None",
+    "Courses": [
+        {
+            "courseCode": "MTHEL99",
+            "Name": "First-Year Mathematics Readiness",
+            "Desc": "A skills-based course designed to help the incoming university student refresh their knowledge of secondary school mathematics. It includes extra practice with the following topics: inequalities and  absolute values, radicals and rational expressions, trigonometry, exponential and logarithmic functions, polynomials, and introductory calculus. ",
+            "Notes": "[Note: This course will be graded on a Credit/No-Credit basis.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": true
+        },
+        {
+            "courseCode": "MTHEL131",
+            "Name": "Introduction to Actuarial Practice",
+            "Desc": "Individual life insurance products. Introduction to property and casualty insurance. Introductory risk management, insurance pricing and valuation. Pension plan design. [Offered: F,W,S]",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: 4U Calculus and Vectors",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MTHEL198",
+            "Name": "Mathematics Elective Topics 1",
+            "Desc": "Special topics course as announced by the department.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MTHEL206",
+            "Name": "Introduction to Mathematics Education",
+            "Desc": "Current trends in education, professional practices and administration, the role of the department head, lesson planning, techniques of teaching, evaluation of students, special students, extracurricular activities, the relationship between elementary and secondary school mathematics, audio-visual materials. [Offered: S]",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: Mathematics Teaching students only",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MTHEL298",
+            "Name": "Mathematics Elective Topics 2",
+            "Desc": "Special topics course as announced by the department.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MTHEL300",
+            "Name": "Professional Communications in Statistics and Actuarial Science",
+            "Desc": "This course introduces students to oral and written communication in the fields of statistics and actuarial science. With emphasis on the public presentation of technical knowledge, the ability to give and receive constructive feedback, and communication in a collaborative environment, this course helps students develop proficiencies in critical workplace skills. This course is writing intensive and includes extensive collaborative assignments. ",
+            "Notes": "[Note: Students are encouraged to complete this course by their 4A term. Offered: F,W,S]",
+            "Consent": "Department Consent Required",
+            "Prereqs": "Prereq: At least 70% in one of EMLS 101R, 102R, EMLS/ENGL 129R, ENGL 109, COMMST 100, 223; one of STAT 331, 371, ACTSC 331; Actuarial Science or Statistics major students",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MTHEL398",
+            "Name": "Mathematics Elective Topics 3",
+            "Desc": "Special topics course as announced by the department.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MTHEL498",
+            "Name": "Mathematics Elective Topics 4",
+            "Desc": "Special topics course as announced by the department.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

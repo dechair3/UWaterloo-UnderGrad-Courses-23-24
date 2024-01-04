@@ -1,0 +1,42 @@
+{
+    "Name": "computingandfinancialmanagement",
+    "Notes": "None",
+    "Courses": [
+        {
+            "courseCode": "CFM101",
+            "Name": "Introduction to Financial Markets and Data Analytics",
+            "Desc": "This course introduces financial markets and institutions, commonly used financial data, and data schema and visualization therein. It covers fundamental functions of financial institutions and their usage of data, and basic financial data management techniques. The course will focus on buy side institutions and stock market data.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: Computing and Financial Management students.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: AFM 121, AFM 127/ACTSC 127, COMM 101",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "CFM301",
+            "Name": "Financial Data Analytics",
+            "Desc": "This course covers financial data analytics in the areas of asset pricing, securities trading, and portfolio management. It covers data usage and application in basic testing of asset pricing theories, trading algorithms and strategies, back-testing techniques, and aspects of portfolio management associated with trading strategies.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: CFM 101, AFM 272/ACTSC 291; Computing and Financial Management students",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "CFM401",
+            "Name": "Topics in Financial Technology",
+            "Desc": "This course introduces current topics in financial technology. Students will apply data analytics or general computational concepts to gain a better understanding of new financial technology.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: CFM 301; Computing and Financial Management students",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

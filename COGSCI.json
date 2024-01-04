@@ -1,0 +1,18 @@
+{
+    "Name": "cognitivescience",
+    "Notes": "None",
+    "Courses": [
+        {
+            "courseCode": "COGSCI300",
+            "Name": "Intelligence in Machines, Humans, and Other Animals",
+            "Desc": "A comparison of the representations and processes that produce intelligent performance, such as problem-solving, learning, and language in natural and artificial systems.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: PHIL/PSYCH 256",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

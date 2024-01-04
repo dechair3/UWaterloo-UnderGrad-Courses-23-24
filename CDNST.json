@@ -1,0 +1,66 @@
+{
+    "Name": "canadianstudies",
+    "Notes": "None",
+    "Courses": [
+        {
+            "courseCode": "CDNST101",
+            "Name": "Introduction to Canadian Studies",
+            "Desc": "A multidisciplinary overview of the broad range of topics covered in Canadian Studies including Indigenous-settler relations, Quebec and French Canada, bilingualism and multiculturalism, regionalism, Canada's place in the world, and the quest for a distinctive Canadian culture and identity in the midst of diversity.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "CDNST201",
+            "Name": "The Indigenous Experience in Canada",
+            "Desc": "An introduction to the Indigenous experience in Canada with a broad overview of history, culture, and contemporary issues. This course highlights the holism of Indigenous perspectives through assigned readings, discussions, projects, and sharing of personal experiences.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "CDNST211",
+            "Name": "Canada: Conflict and Unity",
+            "Desc": "An examination of the fundamental dynamics and tensions in Canadian nationhood, including the following oppositions: Indigenous-Settler; French-English; Center-Periphery; Federal-Provincial. Students will also examine the political and institutional strategies that have been used to mediate these oppositions.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "CDNST212",
+            "Name": "Narratives of Canadian Identity",
+            "Desc": "A multidisciplinary examination of alternative narratives of Canadian identity. Drawing on essays, literature, film, and art, students will explore the perennial question of what it means to be Canadian and examine the factors that have driven different answers to that question over time.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "CDNST244",
+            "Name": "Religion in Canada",
+            "Desc": "Canada is a multicultural and a multi-faith society. While Christians remain the majority, Canada is home to increasing numbers of Buddhists, Hindus, Sikhs, Jews, Muslims, and people with no religion. This course examines religious diversity in Canada, including topics such as religion and multiculturalism, human rights, and selected controversies. ",
+            "Notes": "[Note: Formerly RS 319.]",
+            "Consent": "None",
+            "Prereqs": "Prereq: Level at least 2A.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: RS 319",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

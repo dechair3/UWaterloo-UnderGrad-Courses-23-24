@@ -1,0 +1,30 @@
+{
+    "Name": "mohawk",
+    "Notes": "None",
+    "Courses": [
+        {
+            "courseCode": "MOHAWK101R",
+            "Name": "Mohawk Language 1",
+            "Desc": "An introductory course for students with little or no knowledge of Mohawk. The course is designed to develop basic reading, writing, listening, and speaking skills, however, emphasis will be placed on oral proficiency and comprehension. ",
+            "Notes": "[Note: Conducted in Mohawk. No prior knowledge of Mohawk is expected. Not open to students with advanced ability in Mohawk.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "Antireq: ARTS 190 (LEC 002) taken fall 2017, ARTS 190 (LEC 003) taken winter 2018, ARTS 190 (LEC 001) taken fall 2018",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "MOHAWK102R",
+            "Name": "Mohawk Language 2",
+            "Desc": "This course builds on the content learned in MOHAWK 101R/INDG 101. Students will expand their working vocabulary and learn to create more complex sentences. The emphasis will continue to be on improving oral proficiency and comprehension. ",
+            "Notes": "[Note: Conducted in Mohawk.]",
+            "Consent": "None",
+            "Prereqs": "Prereq: MOHAWK 101R/INDG 101 or one of ARTS 190 (LEC 002) taken fall 2017, ARTS 190 (LEC 003) taken winter 2018, ARTS 190 (LEC 001) taken fall 2018.",
+            "Coreqs": "None",
+            "Antireqs": " Antireq: ARTS 290 (LEC 001) taken winter 2018 or winter 2019",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

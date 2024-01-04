@@ -1,0 +1,66 @@
+{
+    "Name": "churchmusicandworship",
+    "Notes": "None",
+    "Courses": [
+        {
+            "courseCode": "CMW201",
+            "Name": "Worship Practicum 1",
+            "Desc": "Skills development and practice in planning and leading Christian worship, including such activities as choosing and accompanying hymns, song-leading, teaching new music, the use of instrumental music, reading scripture, leading prayer, movement, and gesture. ",
+            "Notes": "[Note: Course will be graded on a CR/NCR basis.]",
+            "Consent": "Instructor Consent Required",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "CMW202",
+            "Name": "Worship Practicum 2",
+            "Desc": "A continuation of CMW 201. Skills development and practice in planning and leading Christian worship, including such activities as choosing and accompanying hymns, song-leading, teaching new music, the use of instrumental music, reading scripture, leading prayer, movement, and gesture. ",
+            "Notes": "[Note: Course will be graded on a CR/NCR basis.]",
+            "Consent": "Instructor Consent Required",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "CMW363",
+            "Name": "The Church's Song",
+            "Desc": "This course examines the origins of the music sung by the Christian church and its development up to the present. The course considers the Church's Song as theological, poetic, musical, cultural, and spiritual expression, and the use of songs in a variety of worship settings. Students will practice methods of song analysis, assess musical meaning, value and effects in various cultural contexts, and reflect on written and oral transmission of music.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "CMW364",
+            "Name": "Worship and its Music",
+            "Desc": "The nature of worship and the role of music within worship in historical, theological, and cultural perspectives. Field trips to services of various traditions. ",
+            "Notes": "[Note: This course fulfils an Area 2 requirement for Religious Studies majors.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "CMW390",
+            "Name": "Special Topics in Church Music and Worship",
+            "Desc": "Term courses will be offered from time to time as announced. Topics will be dependent on research and/or instructional interests of faculty.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

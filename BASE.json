@@ -1,0 +1,78 @@
+{
+    "Name": "bridgetoacademicsuccessinenglish",
+    "Notes": "None",
+    "Courses": [
+        {
+            "courseCode": "BASE32",
+            "Name": "Introduction to Skills & Strategies for University",
+            "Desc": "This integrated course introduces students to essential skills and learning strategies required for active participation in a university lecture environment. Academic vocabulary, listening, and note-taking skills, as well as a variety of reading and study strategies are developed within a discipline-specific context that provides targeted language and study skills support for a concurrent credit course.",
+            "Notes": "None",
+            "Consent": "Department Consent Required",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "BASE34",
+            "Name": "Introduction to Academic Writing and Research Skills",
+            "Desc": "This course provides instruction in conventional patterns of academic writing and introduces students to basic research skills which they then apply to produce well-structured and supported text. This course also encourages the development of written fluency and accuracy through a process approach to writing that includes a focus on grammatical structures, sentence variety, cohesive devices and self-editing strategies.",
+            "Notes": "None",
+            "Consent": "Department Consent Required",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "BASE36",
+            "Name": "Introduction to Academic Speaking and Communication Strategies",
+            "Desc": "This course introduces students to a variety of formal and informal academic speaking environments and helps them to improve their confidence, vocabulary, pronunciation, listening and presentation skills in order to become more engaged participants in conversations, discussions, and presentations, both in and out of the classroom.",
+            "Notes": "None",
+            "Consent": "Department Consent Required",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "BASE42",
+            "Name": "Enhanced Skills & Strategies for University",
+            "Desc": "This course provides students with additional skills and learning strategies to assist in navigating a greater variety of university contexts, including, but not limited to, those pertaining to their concurrent credit course. With an emphasis on building and applying critical thinking skills to better engage with credit course content, this course also presents students with opportunities to expand their discipline-specific vocabulary and heighten interpersonal and teamwork skills.",
+            "Notes": "None",
+            "Consent": "Department Consent Required",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "BASE44",
+            "Name": "Extended Academic Writing and Research Skills",
+            "Desc": "Through the extension of students' research skills and their understanding of rhetorical modes and grammatical structures, this course encourages students to develop an independent approach to writing and research in order to complete a research report related to an area of disciplinary interest. Strategies to revise for accuracy, clarity, and succinctness are also examined.",
+            "Notes": "None",
+            "Consent": "Department Consent Required",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "BASE46",
+            "Name": "Effective Academic Speaking and Communication Strategies",
+            "Desc": "With a greater focus on materials organization, group management, and delivery impact, this course encourages students to become more effective overall communicators in a variety of speaking contexts. Persuasive speaking, interview skills, and student-led seminars are additional components of this course, which continues to provide opportunities for students to refine their pronunciation and enhance speaking accuracy and fluency.",
+            "Notes": "None",
+            "Consent": "Department Consent Required",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

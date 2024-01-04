@@ -1,0 +1,54 @@
+{
+    "Name": "americansignlanguage",
+    "Notes": "None",
+    "Courses": [
+        {
+            "courseCode": "ASL101R",
+            "Name": "American Sign Language 1",
+            "Desc": "This introductory course in American Sign Language (ASL) teaches students to manage everyday communication in ASL and integrate deaf culture and deaf community content. Grammar is introduced in context with an emphasis on developing question and answer skills. ",
+            "Notes": "[Note: Conducted in ASL. No prior knowledge of ASL is expected. Not open to students with advanced ability in American Sign Language.]",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "ASL102R",
+            "Name": "American Sign Language 2",
+            "Desc": "This course extends the introduction to sign language by refining the skills attained in ASL 101R to include personal conversations and storytelling. Cultural notes and videos add to information on deaf culture and deaf community. Grammar includes an emphasis on giving directions and adding description. ",
+            "Notes": "[Note: Conducted in ASL. Not open to students with advanced ability in American Sign Language.]",
+            "Consent": "None",
+            "Prereqs": "Prereq: ASL 101R",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "ASL201R",
+            "Name": "American Sign Language 3",
+            "Desc": "This course enables students to rehearse conversation and to correct information to minimize misunderstandings. Major topics will include family and occupations, attributing qualities to others, and discussing routines. Cultural notes and videotapes provide information on Deaf Culture and Community. Grammar is introduced in context.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: ASL 102R",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        },
+        {
+            "courseCode": "ASL202R",
+            "Name": "American Sign Language 4",
+            "Desc": "This course refines the skills learned and retained from ASL 201R. Students learn to communicate the locations of items around the house, complain, and make suggestions and requests. Advanced exploration of Deaf Culture and Community is incorporated. Grammar is introduced in context with emphasis on question and answer skills.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "Prereq: ASL 201R",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "internationalstudies",
+    "Notes": "None",
+    "Courses": [
+        {
+            "courseCode": "INTST101",
+            "Name": "Introduction to International Studies",
+            "Desc": "Conflict and cooperation have been the central problems of international politics throughout history, and remain so today. This course introduces aspects of these problems and attempted solutions. Specific topics and approaches vary by instructor.",
+            "Notes": "None",
+            "Consent": "None",
+            "Prereqs": "None",
+            "Coreqs": "None",
+            "Antireqs": "None",
+            "crosslisted": "None",
+            "online": false
+        }
+    ]
+}
